@@ -1,0 +1,263 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flask-HTTPAuth",
+          "description": "Simple extension that provides Basic, Digest and Token HTTP authentication for Flask routes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-14T19:37:53Z",
+            "owner": "miguelgrinberg",
+            "repo": "Flask-HTTPAuth",
+            "stars": 1288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Secure.py",
+          "description": "secure.py 🔒 is a lightweight package that adds optional security headers and cookie attributes for Python web frameworks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-23T00:33:38Z",
+            "owner": "TypeError",
+            "repo": "secure",
+            "stars": 1049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flask Talisman",
+          "description": "Talisman is a small Flask extension that handles setting HTTP headers that can help protect against a few common web application security issues.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-05-01T11:53:42Z",
+            "owner": "GoogleCloudPlatform",
+            "repo": "flask-talisman",
+            "stars": 934
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Django Session CSRF",
+          "description": "CSRF protection for Django without cookies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-03-28T03:43:21Z",
+            "owner": "mozilla",
+            "repo": "django-session-csrf",
+            "stars": 111
+          }
+        }
+      ],
+      "title": "Web Framework Hardening"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hubble",
+          "description": "Hubble is a modular, open-source security compliance framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-07T14:06:33Z",
+            "owner": "hubblestack",
+            "repo": "hubble",
+            "stars": 386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hawkeye",
+          "description": "Multi purpose security/vulnerability/risk scanning tool supporting Ruby, Node.js, Python, PHP and Java.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-08-31T08:51:08Z",
+            "owner": "hawkeyesec",
+            "repo": "scanner-cli",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Salus",
+          "description": "Multi purpose security scanning tool supporting Ruby, Node, Python and Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-06-12T17:47:25Z",
+            "owner": "coinbase",
+            "repo": "salus",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GuardRails",
+          "description": "A GitHub App that gives you instant security feedback in your Pull Requests.",
+          "children": []
+        }
+      ],
+      "title": "Multi tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bandit",
+          "description": "Bandit is a tool designed to find common security issues in Python code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T03:25:32Z",
+            "owner": "PyCQA",
+            "repo": "bandit",
+            "stars": 8209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pyt",
+          "description": "A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-25T03:47:37Z",
+            "owner": "python-security",
+            "repo": "pyt",
+            "stars": 2201
+          }
+        }
+      ],
+      "title": "Static Code Analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sqlmap",
+          "description": "Automatic SQL injection and database takeover tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T22:18:02Z",
+            "owner": "sqlmapproject",
+            "repo": "sqlmap",
+            "stars": 38170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EvilTwinFramework",
+          "description": "A framework for pentesters that facilitates evil twin attacks as well as exploiting other wifi vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-01T17:30:34Z",
+            "owner": "Esser50K",
+            "repo": "EvilTwinFramework",
+            "stars": 357
+          }
+        }
+      ],
+      "title": "Penetration Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DSVW",
+          "description": "Damn Small Vulnerable Web (DSVW) is a deliberately vulnerable web application written in under 100 lines of code, created for educational purposes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T09:06:06Z",
+            "owner": "stamparm",
+            "repo": "DSVW",
+            "stars": 880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django.nV",
+          "description": "django.nV is a purposefully vulnerable Django application provided by nVisium.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-11-12T07:55:33Z",
+            "owner": "NetSPI",
+            "repo": "django.nV",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DVPWA",
+          "description": "Damn Vulnerable Python Web Application was inspired by famous dvwa project and bobby-tables xkcd comics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-21T18:50:44Z",
+            "owner": "anxolerd",
+            "repo": "dvpwa",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Let's be bad Guys",
+          "description": "Shiny, Let's Be Bad Guys: Exploiting and Mitigating the Top 10 Web App Vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-07-18T22:38:06Z",
+            "owner": "mpirnat",
+            "repo": "lets-be-bad-guys",
+            "stars": 189
+          }
+        }
+      ],
+      "title": "Hacking Playground"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:33:34.823Z",
+    "original_repository": "guardrailsio/awesome-python-security",
+    "original_repository_sha": "744d62275d311a215fb93c18aa7cbdc73422bf1b",
+    "enhanced_repository": "enhansome/enhansome-python-security",
+    "enhanced_repository_description": null,
+    "title": "Awesome Educational with stars"
+  }
+}
