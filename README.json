@@ -130,7 +130,7 @@
             "last_commit": "2026-08-04T03:25:32Z",
             "owner": "PyCQA",
             "repo": "bandit",
-            "stars": 8209
+            "stars": 8208
           }
         },
         {
@@ -253,7 +253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:33:34.823Z",
+    "last_updated": "2026-08-13T07:56:58.952Z",
     "original_repository": "guardrailsio/awesome-python-security",
     "original_repository_sha": "744d62275d311a215fb93c18aa7cbdc73422bf1b",
     "enhanced_repository": "enhansome/enhansome-python-security",
