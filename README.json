@@ -130,7 +130,7 @@
             "last_commit": "2026-08-04T03:25:32Z",
             "owner": "PyCQA",
             "repo": "bandit",
-            "stars": 8222
+            "stars": 8221
           }
         },
         {
@@ -161,10 +161,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T21:52:26Z",
+            "last_commit": "2026-08-17T20:20:46Z",
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38200
+            "stars": 38204
           }
         },
         {
@@ -253,7 +253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:26:07.077Z",
+    "last_updated": "2026-08-18T07:08:17.086Z",
     "original_repository": "guardrailsio/awesome-python-security",
     "original_repository_sha": "744d62275d311a215fb93c18aa7cbdc73422bf1b",
     "enhanced_repository": "enhansome/enhansome-python-security",
