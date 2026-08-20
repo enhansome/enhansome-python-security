@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-18T12:50:42Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38223
+                "stars": 38227
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2024-08-01T17:30:34Z",
                 "owner": "Esser50K",
                 "repo": "EvilTwinFramework",
-                "stars": 357
+                "stars": 358
               }
             }
           ],
@@ -207,7 +207,7 @@
                 "archived": false,
                 "id": 46572746,
                 "language": "Python",
-                "last_commit": "2026-08-11T09:06:06Z",
+                "last_commit": "2026-08-19T21:27:32Z",
                 "owner": "stamparm",
                 "repo": "DSVW",
                 "stars": 880
@@ -268,7 +268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:46:01.295Z",
+    "last_updated": "2026-08-20T07:10:03.036Z",
     "original_repository": "guardrailsio/awesome-python-security",
     "original_repository_id": 163282423,
     "original_repository_sha": "744d62275d311a215fb93c18aa7cbdc73422bf1b",
