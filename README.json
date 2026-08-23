@@ -136,7 +136,7 @@
                 "last_commit": "2026-08-04T03:25:32Z",
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8231
+                "stars": 8232
               }
             },
             {
@@ -170,10 +170,10 @@
                 "archived": false,
                 "id": 4793392,
                 "language": "Python",
-                "last_commit": "2026-08-18T12:50:42Z",
+                "last_commit": "2026-08-22T21:03:03Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38238
+                "stars": 38247
               }
             },
             {
@@ -240,7 +240,7 @@
                 "last_commit": "2024-05-21T18:50:44Z",
                 "owner": "anxolerd",
                 "repo": "dvpwa",
-                "stars": 191
+                "stars": 192
               }
             },
             {
@@ -268,7 +268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T07:02:37.081Z",
+    "last_updated": "2026-08-23T07:05:15.039Z",
     "original_repository": "guardrailsio/awesome-python-security",
     "original_repository_id": 163282423,
     "original_repository_sha": "744d62275d311a215fb93c18aa7cbdc73422bf1b",
