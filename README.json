@@ -133,7 +133,7 @@
                 "archived": false,
                 "id": 131129792,
                 "language": "Python",
-                "last_commit": "2026-08-04T03:25:32Z",
+                "last_commit": "2026-08-24T11:13:47Z",
                 "owner": "PyCQA",
                 "repo": "bandit",
                 "stars": 8236
@@ -163,6 +163,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Safety",
+              "description": "Safety checks your installed dependencies for known security vulnerabilities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71359600,
+                "language": "Python",
+                "last_commit": "2026-08-20T18:27:57Z",
+                "owner": "pyupio",
+                "repo": "safety",
+                "stars": 1995
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vulnerabilities and Security Advisories"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "sqlmap",
               "description": "Automatic SQL injection and database takeover tool",
               "children": [],
@@ -173,7 +195,7 @@
                 "last_commit": "2026-08-23T15:35:59Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38252
+                "stars": 38255
               }
             },
             {
@@ -195,6 +217,50 @@
           "description": null,
           "node_type": "group",
           "title": "Penetration Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PyNacl",
+              "description": "Python binding to the Networking and Cryptography (NaCl) library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8350032,
+                "language": "C",
+                "last_commit": "2026-08-24T11:22:28Z",
+                "owner": "pyca",
+                "repo": "pynacl",
+                "stars": 1204
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cryptography"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "wemake-django-template",
+              "description": "Bleeding edge template focused on code quality and security.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103513062,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:24:09Z",
+                "owner": "wemake-services",
+                "repo": "wemake-django-template",
+                "stars": 2268
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Application Templates"
         },
         {
           "children": [
@@ -268,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:31:52.818Z",
+    "last_updated": "2026-08-24T14:18:32.463Z",
     "original_repository": "guardrailsio/awesome-python-security",
     "original_repository_id": 163282423,
     "original_repository_sha": "744d62275d311a215fb93c18aa7cbdc73422bf1b",
