@@ -136,7 +136,7 @@
                 "last_commit": "2026-08-24T11:13:47Z",
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8237
+                "stars": 8242
               }
             },
             {
@@ -195,7 +195,7 @@
                 "last_commit": "2026-08-23T15:35:59Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38258
+                "stars": 38266
               }
             },
             {
@@ -229,7 +229,7 @@
                 "archived": false,
                 "id": 8350032,
                 "language": "C",
-                "last_commit": "2026-08-24T11:22:28Z",
+                "last_commit": "2026-08-25T11:06:02Z",
                 "owner": "pyca",
                 "repo": "pynacl",
                 "stars": 1204
@@ -254,7 +254,7 @@
                 "last_commit": "2026-08-24T17:44:28Z",
                 "owner": "wemake-services",
                 "repo": "wemake-django-template",
-                "stars": 2268
+                "stars": 2267
               }
             }
           ],
@@ -276,7 +276,7 @@
                 "last_commit": "2026-08-19T21:27:32Z",
                 "owner": "stamparm",
                 "repo": "DSVW",
-                "stars": 880
+                "stars": 879
               }
             },
             {
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:12:06.175Z",
+    "last_updated": "2026-08-26T07:11:58.082Z",
     "original_repository": "guardrailsio/awesome-python-security",
     "original_repository_id": 163282423,
     "original_repository_sha": "744d62275d311a215fb93c18aa7cbdc73422bf1b",
