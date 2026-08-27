@@ -5,7 +5,7 @@ A curated list of awesome Python security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,012 | 🐛 106 | 📅 2026-08-21 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,367 | 🐛 105 | 📅 2026-08-21 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -25,7 +25,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 ## Web Framework Hardening
 
 * [Flask-HTTPAuth](https://github.com/miguelgrinberg/flask-httpauth/) ⭐ 1,289 | 🐛 10 | 🌐 Python | 📅 2026-05-14 - Simple extension that provides Basic, Digest and Token HTTP authentication for Flask routes.
-* [Secure.py](https://github.com/cakinney/secure.py) ⭐ 1,049 | 🐛 9 | 🌐 Python | 📅 2026-07-23 - secure.py 🔒 is a lightweight package that adds optional security headers and cookie attributes for Python web frameworks.
+* [Secure.py](https://github.com/cakinney/secure.py) ⭐ 1,050 | 🐛 9 | 🌐 Python | 📅 2026-07-23 - secure.py 🔒 is a lightweight package that adds optional security headers and cookie attributes for Python web frameworks.
 * [Flask Talisman](https://github.com/GoogleCloudPlatform/flask-talisman) ⚠️ Archived - Talisman is a small Flask extension that handles setting HTTP headers that can help protect against a few common web application security issues.
 * [Django Session CSRF](https://github.com/mozilla/django-session-csrf) ⭐ 111 | 🐛 14 | 🌐 Python | 📅 2019-03-28 - CSRF protection for Django without cookies.
 * [Django deployment checklist](https://docs.djangoproject.com/en/dev/howto/deployment/checklist/) - Web framework Django has built-in feature to check for security configurations: run this command `manage.py check --deploy`. It's really helpful as it already included in the framework.
@@ -52,17 +52,17 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Penetration Testing
 
-* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,266 | 🐛 33 | 🌐 Python | 📅 2026-08-23 - Automatic SQL injection and database takeover tool
+* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,278 | 🐛 34 | 🌐 Python | 📅 2026-08-26 - Automatic SQL injection and database takeover tool
 * [EvilTwinFramework](https://github.com/Esser420/EvilTwinFramework) ⭐ 359 | 🐛 7 | 🌐 Python | 📅 2024-08-01 - A framework for pentesters that facilitates evil twin attacks as well as exploiting other wifi vulnerabilities.
 
 ## Cryptography
 
-* [PyNacl](https://github.com/pyca/pynacl) ⭐ 1,204 | 🐛 57 | 🌐 C | 📅 2026-08-25 - Python binding to the Networking and Cryptography (NaCl) library.
+* [PyNacl](https://github.com/pyca/pynacl) ⭐ 1,205 | 🐛 57 | 🌐 C | 📅 2026-08-25 - Python binding to the Networking and Cryptography (NaCl) library.
 * [Passlib](https://bitbucket.org/ecollins/passlib) - Secure password storage/hashing library, very high level.
 
 ## Application Templates
 
-* [wemake-django-template](https://github.com/wemake-services/wemake-django-template) ⭐ 2,267 | 🐛 21 | 🌐 Python | 📅 2026-08-24 - Bleeding edge `django` template focused on code quality and security.
+* [wemake-django-template](https://github.com/wemake-services/wemake-django-template) ⭐ 2,269 | 🐛 21 | 🌐 Python | 📅 2026-08-24 - Bleeding edge `django` template focused on code quality and security.
 
 # Awesome Educational with stars
 
@@ -110,4 +110,4 @@ say *hi* on [Twitter](https://twitter.com/s_streichsbier)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

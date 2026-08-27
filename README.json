@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-23T00:33:38Z",
                 "owner": "TypeError",
                 "repo": "secure",
-                "stars": 1049
+                "stars": 1050
               }
             },
             {
@@ -192,10 +192,10 @@
                 "archived": false,
                 "id": 4793392,
                 "language": "Python",
-                "last_commit": "2026-08-23T15:35:59Z",
+                "last_commit": "2026-08-26T11:46:12Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38266
+                "stars": 38278
               }
             },
             {
@@ -232,7 +232,7 @@
                 "last_commit": "2026-08-25T11:06:02Z",
                 "owner": "pyca",
                 "repo": "pynacl",
-                "stars": 1204
+                "stars": 1205
               }
             }
           ],
@@ -254,7 +254,7 @@
                 "last_commit": "2026-08-24T17:44:28Z",
                 "owner": "wemake-services",
                 "repo": "wemake-django-template",
-                "stars": 2267
+                "stars": 2269
               }
             }
           ],
@@ -334,9 +334,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:11:58.082Z",
-    "original_repository": "guardrailsio/awesome-python-security",
-    "original_repository_id": 163282423,
+    "last_updated": "2026-08-27T12:00:02.694Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 163282423,
+      "language": null,
+      "last_commit": "2023-08-24T08:54:42Z",
+      "owner": "guardrailsio",
+      "repo": "awesome-python-security",
+      "stars": 961
+    },
     "original_repository_sha": "744d62275d311a215fb93c18aa7cbdc73422bf1b",
     "enhanced_repository": "enhansome/enhansome-python-security",
     "enhanced_repository_description": null,
