@@ -18,7 +18,8 @@
                 "owner": "miguelgrinberg",
                 "repo": "Flask-HTTPAuth",
                 "stars": 1289
-              }
+              },
+              "first_seen": "2026-08-28T18:48:11.364Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2026-07-23T00:33:38Z",
                 "owner": "TypeError",
                 "repo": "secure",
-                "stars": 1050
-              }
+                "stars": 1052
+              },
+              "first_seen": "2026-08-28T18:48:11.364Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "GoogleCloudPlatform",
                 "repo": "flask-talisman",
                 "stars": 933
-              }
+              },
+              "first_seen": "2026-08-28T18:48:11.364Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "mozilla",
                 "repo": "django-session-csrf",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T18:48:11.364Z"
             }
           ],
           "description": null,
@@ -85,7 +89,8 @@
                 "owner": "hubblestack",
                 "repo": "hubble",
                 "stars": 386
-              }
+              },
+              "first_seen": "2026-08-28T18:48:11.364Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "hawkeyesec",
                 "repo": "scanner-cli",
                 "stars": 361
-              }
+              },
+              "first_seen": "2026-08-28T18:48:11.364Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "coinbase",
                 "repo": "salus",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T18:48:11.364Z"
             }
           ],
           "description": null,
@@ -136,8 +143,9 @@
                 "last_commit": "2026-08-24T11:13:47Z",
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8242
-              }
+                "stars": 8244
+              },
+              "first_seen": "2026-08-28T18:48:11.364Z"
             },
             {
               "node_type": "item",
@@ -152,7 +160,8 @@
                 "owner": "python-security",
                 "repo": "pyt",
                 "stars": 2201
-              }
+              },
+              "first_seen": "2026-08-28T18:48:11.364Z"
             }
           ],
           "description": null,
@@ -174,7 +183,8 @@
                 "owner": "pyupio",
                 "repo": "safety",
                 "stars": 1995
-              }
+              },
+              "first_seen": "2026-08-28T18:48:11.364Z"
             }
           ],
           "description": null,
@@ -192,11 +202,12 @@
                 "archived": false,
                 "id": 4793392,
                 "language": "Python",
-                "last_commit": "2026-08-26T11:46:12Z",
+                "last_commit": "2026-08-28T07:44:26Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38281
-              }
+                "stars": 38292
+              },
+              "first_seen": "2026-08-28T18:48:11.364Z"
             },
             {
               "node_type": "item",
@@ -211,7 +222,8 @@
                 "owner": "Esser50K",
                 "repo": "EvilTwinFramework",
                 "stars": 359
-              }
+              },
+              "first_seen": "2026-08-28T18:48:11.364Z"
             }
           ],
           "description": null,
@@ -233,7 +245,8 @@
                 "owner": "pyca",
                 "repo": "pynacl",
                 "stars": 1205
-              }
+              },
+              "first_seen": "2026-08-28T18:48:11.364Z"
             }
           ],
           "description": null,
@@ -251,11 +264,12 @@
                 "archived": false,
                 "id": 103513062,
                 "language": "Python",
-                "last_commit": "2026-08-24T17:44:28Z",
+                "last_commit": "2026-08-28T05:45:37Z",
                 "owner": "wemake-services",
                 "repo": "wemake-django-template",
                 "stars": 2269
-              }
+              },
+              "first_seen": "2026-08-28T18:48:11.364Z"
             }
           ],
           "description": null,
@@ -276,8 +290,9 @@
                 "last_commit": "2026-08-19T21:27:32Z",
                 "owner": "stamparm",
                 "repo": "DSVW",
-                "stars": 879
-              }
+                "stars": 880
+              },
+              "first_seen": "2026-08-28T18:48:11.364Z"
             },
             {
               "node_type": "item",
@@ -292,7 +307,8 @@
                 "owner": "NetSPI",
                 "repo": "django.nV",
                 "stars": 208
-              }
+              },
+              "first_seen": "2026-08-28T18:48:11.364Z"
             },
             {
               "node_type": "item",
@@ -307,7 +323,8 @@
                 "owner": "anxolerd",
                 "repo": "dvpwa",
                 "stars": 192
-              }
+              },
+              "first_seen": "2026-08-28T18:48:11.364Z"
             },
             {
               "node_type": "item",
@@ -322,7 +339,8 @@
                 "owner": "mpirnat",
                 "repo": "lets-be-bad-guys",
                 "stars": 189
-              }
+              },
+              "first_seen": "2026-08-28T18:48:11.364Z"
             }
           ],
           "description": null,
@@ -334,7 +352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:41:00.040Z",
+    "last_updated": "2026-08-28T18:48:11.364Z",
     "original_repository_info": {
       "archived": false,
       "id": 163282423,
