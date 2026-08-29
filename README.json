@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple extension that provides Basic, Digest and Token HTTP authentication for Flask routes",
+                "homepage": null,
                 "id": 10136908,
                 "language": "Python",
-                "last_commit": "2026-05-14T19:37:53Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:30:10Z",
+                "open_issues": 10,
                 "owner": "miguelgrinberg",
                 "repo": "Flask-HTTPAuth",
-                "stars": 1289
+                "stars": 1289,
+                "topics": [
+                  "authentication",
+                  "flask",
+                  "flask-httpauth",
+                  "python",
+                  "security",
+                  "tokens"
+                ]
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
             },
@@ -28,12 +40,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern Python library for HTTP security headers with safe defaults, configurable presets, and first-class ASGI/WSGI middleware (FastAPI, Django, Flask, Shiny, and more).",
+                "homepage": "https://typeerror.com/secure/",
                 "id": 159254159,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-23T00:33:38Z",
+                "open_issues": 9,
                 "owner": "TypeError",
                 "repo": "secure",
-                "stars": 1052
+                "stars": 1052,
+                "topics": [
+                  "asgi",
+                  "content-security-policy",
+                  "django",
+                  "fastapi",
+                  "flask",
+                  "http-headers",
+                  "python",
+                  "security",
+                  "security-headers",
+                  "shiny",
+                  "strict-transport-security",
+                  "web-security",
+                  "wsgi"
+                ]
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
             },
@@ -44,12 +75,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "HTTP security headers for Flask",
+                "homepage": null,
                 "id": 46087800,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-01T11:53:42Z",
+                "open_issues": 23,
                 "owner": "GoogleCloudPlatform",
                 "repo": "flask-talisman",
-                "stars": 933
+                "stars": 933,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
             },
@@ -60,12 +96,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CSRF protection for Django without cookies.",
+                "homepage": null,
                 "id": 1636884,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-03-28T03:43:21Z",
+                "open_issues": 14,
                 "owner": "mozilla",
                 "repo": "django-session-csrf",
-                "stars": 111
+                "stars": 111,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
             }
@@ -83,12 +124,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hubble is a modular, open-source security compliance framework. The project provides on-demand profile-based auditing, real-time security event notifications, alerting, and reporting.",
+                "homepage": null,
                 "id": 78152020,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-07T14:06:33Z",
+                "open_issues": 3,
                 "owner": "hubblestack",
                 "repo": "hubble",
-                "stars": 386
+                "stars": 386,
+                "topics": [
+                  "audit",
+                  "hubble",
+                  "nebula",
+                  "nova",
+                  "osquery",
+                  "pulsar",
+                  "quasar",
+                  "saltstack",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
             },
@@ -99,12 +155,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A project security/vulnerability/risk scanning tool",
+                "homepage": null,
                 "id": 85411269,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2021-08-31T08:51:08Z",
+                "open_issues": 26,
                 "owner": "hawkeyesec",
                 "repo": "scanner-cli",
-                "stars": 361
+                "stars": 361,
+                "topics": [
+                  "ci",
+                  "docker",
+                  "nodejs",
+                  "npm",
+                  "ruby",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
             },
@@ -115,12 +183,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "We would like to request that all contributors please clone a *fresh copy* of this repository since the September 21st maintenance.",
+                "homepage": null,
                 "id": 153349500,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2025-06-12T17:47:25Z",
+                "open_issues": 42,
                 "owner": "coinbase",
                 "repo": "salus",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "audit",
+                  "brakeman",
+                  "circleci",
+                  "coinbase",
+                  "cves",
+                  "golang",
+                  "gosec",
+                  "js",
+                  "npm",
+                  "ruby-on-rails",
+                  "salus",
+                  "security-scanner",
+                  "security-scanners",
+                  "security-tools",
+                  "static-analysis",
+                  "yarn"
+                ]
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
             }
@@ -138,12 +228,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bandit is a tool designed to find common security issues in Python code.",
+                "homepage": "https://bandit.readthedocs.io",
                 "id": 131129792,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T11:13:47Z",
+                "open_issues": 260,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8244
+                "stars": 8246,
+                "topics": [
+                  "bandit",
+                  "linter",
+                  "python",
+                  "security",
+                  "security-scanner",
+                  "security-tools",
+                  "static-code-analysis"
+                ]
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
             },
@@ -154,12 +257,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications",
+                "homepage": null,
                 "id": 72017740,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2020-12-25T03:47:37Z",
+                "open_issues": 28,
                 "owner": "python-security",
                 "repo": "pyt",
-                "stars": 2201
+                "stars": 2201,
+                "topics": [
+                  "abstract-syntax",
+                  "abstract-syntax-tree",
+                  "control-flow-graph",
+                  "dataflow",
+                  "dataflow-analysis",
+                  "fixed-point",
+                  "fixed-point-analysis",
+                  "flask",
+                  "program-analysis",
+                  "pyt",
+                  "python",
+                  "python3",
+                  "security",
+                  "static-analysis",
+                  "static-code-analysis",
+                  "taint",
+                  "taint-analysis"
+                ]
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
             }
@@ -177,12 +303,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Safety checks Python dependencies for known security vulnerabilities and suggests the proper remediations for vulnerabilities detected.",
+                "homepage": "https://safetycli.com/product/safety-cli",
                 "id": 71359600,
                 "language": "Python",
-                "last_commit": "2026-08-20T18:27:57Z",
+                "license": null,
+                "last_commit": "2026-08-28T21:42:48Z",
+                "open_issues": 93,
                 "owner": "pyupio",
                 "repo": "safety",
-                "stars": 1995
+                "stars": 1995,
+                "topics": [
+                  "cicd",
+                  "dependency-management",
+                  "devsecops",
+                  "open-source-security",
+                  "package-management",
+                  "python",
+                  "security",
+                  "security-vulnerability",
+                  "travis",
+                  "vulnerability-detection",
+                  "vulnerability-scanners"
+                ]
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
             }
@@ -200,12 +343,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatic SQL injection and database takeover tool",
+                "homepage": "http://sqlmap.org",
                 "id": 4793392,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T07:44:26Z",
+                "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38292
+                "stars": 38294,
+                "topics": [
+                  "api-security",
+                  "appsec",
+                  "database",
+                  "database-security",
+                  "dbms",
+                  "detection",
+                  "exploitation",
+                  "pentesting",
+                  "python",
+                  "security-testing",
+                  "security-testing-tool",
+                  "sql-injection",
+                  "sqlinjection",
+                  "webapp-security",
+                  "webappsec"
+                ]
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
             },
@@ -216,12 +380,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework for pentesters that facilitates evil twin attacks as well as exploiting other wifi vulnerabilities",
+                "homepage": null,
                 "id": 70102994,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2024-08-01T17:30:34Z",
+                "open_issues": 7,
                 "owner": "Esser50K",
                 "repo": "EvilTwinFramework",
-                "stars": 359
+                "stars": 359,
+                "topics": [
+                  "evil-twin",
+                  "framework",
+                  "hacking",
+                  "pentesters",
+                  "security",
+                  "toolkit"
+                ]
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
             }
@@ -239,12 +415,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python binding to the Networking and Cryptography (NaCl) library",
+                "homepage": "https://pynacl.readthedocs.io/",
                 "id": 8350032,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T11:06:02Z",
+                "open_issues": 57,
                 "owner": "pyca",
                 "repo": "pynacl",
-                "stars": 1205
+                "stars": 1205,
+                "topics": [
+                  "cryptography",
+                  "libsodium",
+                  "nacl",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
             }
@@ -262,12 +448,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bleeding edge django template focused on code quality and security.",
+                "homepage": "https://wemake-services.github.io/wemake-django-template/",
                 "id": 103513062,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T05:45:37Z",
+                "open_issues": 21,
                 "owner": "wemake-services",
                 "repo": "wemake-django-template",
-                "stars": 2269
+                "stars": 2269,
+                "topics": [
+                  "caddy",
+                  "cookiecutter",
+                  "cookiecutter-template",
+                  "django",
+                  "docker",
+                  "gitlab-ci",
+                  "mypy",
+                  "pytest",
+                  "python",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
             }
@@ -285,12 +487,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Damn Small Vulnerable Web",
+                "homepage": null,
                 "id": 46572746,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2026-08-19T21:27:32Z",
+                "open_issues": 1,
                 "owner": "stamparm",
                 "repo": "DSVW",
-                "stars": 880
+                "stars": 880,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
             },
@@ -301,12 +508,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Vulnerable Django Application",
+                "homepage": null,
                 "id": 23431546,
                 "language": "JavaScript",
+                "license": "GPL-2.0",
                 "last_commit": "2021-11-12T07:55:33Z",
+                "open_issues": 10,
                 "owner": "NetSPI",
                 "repo": "django.nV",
-                "stars": 208
+                "stars": 208,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
             },
@@ -317,12 +529,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Damn Vulnerable Python Web App",
+                "homepage": null,
                 "id": 98656877,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-21T18:50:44Z",
+                "open_issues": 12,
                 "owner": "anxolerd",
                 "repo": "dvpwa",
-                "stars": 192
+                "stars": 192,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
             },
@@ -333,12 +550,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A deliberately-vulnerable website and exercises for teaching about the OWASP Top 10",
+                "homepage": null,
                 "id": 7617599,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-18T22:38:06Z",
+                "open_issues": 1,
                 "owner": "mpirnat",
                 "repo": "lets-be-bad-guys",
-                "stars": 189
+                "stars": 189,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
             }
@@ -352,15 +574,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:48:11.364Z",
+    "last_updated": "2026-08-29T04:37:36.202Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Python Security resources 🕶🐍🔐",
+      "homepage": null,
       "id": 163282423,
       "language": null,
+      "license": null,
       "last_commit": "2023-08-24T08:54:42Z",
+      "open_issues": 17,
       "owner": "guardrailsio",
       "repo": "awesome-python-security",
-      "stars": 961
+      "stars": 961,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "python",
+        "security",
+        "security-testing",
+        "security-tools",
+        "static-analysis"
+      ]
     },
     "original_repository_sha": "744d62275d311a215fb93c18aa7cbdc73422bf1b",
     "enhanced_repository": "enhansome/enhansome-python-security",
