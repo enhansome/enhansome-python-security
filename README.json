@@ -17,7 +17,7 @@
                 "id": 10136908,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-28T23:30:10Z",
+                "last_commit": "2026-08-29T19:21:52Z",
                 "open_issues": 0,
                 "owner": "miguelgrinberg",
                 "repo": "Flask-HTTPAuth",
@@ -233,11 +233,11 @@
                 "id": 131129792,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-24T11:13:47Z",
-                "open_issues": 260,
+                "last_commit": "2026-08-29T15:07:40Z",
+                "open_issues": 259,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8246,
+                "stars": 8247,
                 "topics": [
                   "bandit",
                   "linter",
@@ -352,7 +352,7 @@
                 "open_issues": 34,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38296,
+                "stars": 38316,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T12:44:04.405Z",
+    "last_updated": "2026-08-30T11:59:48.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
@@ -586,7 +586,7 @@
       "open_issues": 17,
       "owner": "guardrailsio",
       "repo": "awesome-python-security",
-      "stars": 961,
+      "stars": 962,
       "topics": [
         "awesome",
         "awesome-list",
