@@ -84,7 +84,7 @@
                 "open_issues": 23,
                 "owner": "GoogleCloudPlatform",
                 "repo": "flask-talisman",
-                "stars": 933,
+                "stars": 932,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
@@ -237,7 +237,7 @@
                 "open_issues": 259,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8247,
+                "stars": 8248,
                 "topics": [
                   "bandit",
                   "linter",
@@ -266,7 +266,7 @@
                 "open_issues": 28,
                 "owner": "python-security",
                 "repo": "pyt",
-                "stars": 2201,
+                "stars": 2200,
                 "topics": [
                   "abstract-syntax",
                   "abstract-syntax-tree",
@@ -352,7 +352,7 @@
                 "open_issues": 34,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38316,
+                "stars": 38321,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -453,11 +453,11 @@
                 "id": 103513062,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-28T05:45:37Z",
+                "last_commit": "2026-08-31T04:29:50Z",
                 "open_issues": 21,
                 "owner": "wemake-services",
                 "repo": "wemake-django-template",
-                "stars": 2269,
+                "stars": 2270,
                 "topics": [
                   "caddy",
                   "cookiecutter",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T11:59:48.318Z",
+    "last_updated": "2026-08-31T14:01:28.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
@@ -583,7 +583,7 @@
       "language": null,
       "license": null,
       "last_commit": "2023-08-24T08:54:42Z",
-      "open_issues": 17,
+      "open_issues": 18,
       "owner": "guardrailsio",
       "repo": "awesome-python-security",
       "stars": 962,
