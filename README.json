@@ -45,11 +45,11 @@
                 "id": 159254159,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-07-23T00:33:38Z",
+                "last_commit": "2026-09-01T21:16:14Z",
                 "open_issues": 9,
                 "owner": "TypeError",
                 "repo": "secure",
-                "stars": 1052,
+                "stars": 1053,
                 "topics": [
                   "asgi",
                   "content-security-policy",
@@ -266,7 +266,7 @@
                 "open_issues": 28,
                 "owner": "python-security",
                 "repo": "pyt",
-                "stars": 2200,
+                "stars": 2199,
                 "topics": [
                   "abstract-syntax",
                   "abstract-syntax-tree",
@@ -348,11 +348,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T08:24:59Z",
+                "last_commit": "2026-09-02T05:54:07Z",
                 "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38337,
+                "stars": 38340,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -421,7 +421,7 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-25T11:06:02Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "pyca",
                 "repo": "pynacl",
                 "stars": 1205,
@@ -496,7 +496,7 @@
                 "open_issues": 1,
                 "owner": "stamparm",
                 "repo": "DSVW",
-                "stars": 880,
+                "stars": 881,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T11:45:03.584Z",
+    "last_updated": "2026-09-02T11:26:25.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
@@ -583,7 +583,7 @@
       "language": null,
       "license": null,
       "last_commit": "2023-08-24T08:54:42Z",
-      "open_issues": 18,
+      "open_issues": 20,
       "owner": "guardrailsio",
       "repo": "awesome-python-security",
       "stars": 962,
