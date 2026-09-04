@@ -308,8 +308,8 @@
                 "id": 71359600,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-02T21:48:41Z",
-                "open_issues": 92,
+                "last_commit": "2026-09-03T23:29:09Z",
+                "open_issues": 93,
                 "owner": "pyupio",
                 "repo": "safety",
                 "stars": 1995,
@@ -348,11 +348,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T13:51:26Z",
-                "open_issues": 33,
+                "last_commit": "2026-09-04T07:47:40Z",
+                "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38352,
+                "stars": 38357,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -389,7 +389,7 @@
                 "open_issues": 7,
                 "owner": "Esser50K",
                 "repo": "EvilTwinFramework",
-                "stars": 359,
+                "stars": 358,
                 "topics": [
                   "evil-twin",
                   "framework",
@@ -453,11 +453,11 @@
                 "id": 103513062,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-31T18:27:11Z",
+                "last_commit": "2026-09-04T04:26:19Z",
                 "open_issues": 21,
                 "owner": "wemake-services",
                 "repo": "wemake-django-template",
-                "stars": 2270,
+                "stars": 2271,
                 "topics": [
                   "caddy",
                   "cookiecutter",
@@ -496,7 +496,7 @@
                 "open_issues": 1,
                 "owner": "stamparm",
                 "repo": "DSVW",
-                "stars": 881,
+                "stars": 879,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T11:22:46.052Z",
+    "last_updated": "2026-09-04T11:25:55.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
@@ -583,7 +583,7 @@
       "language": null,
       "license": null,
       "last_commit": "2023-08-24T08:54:42Z",
-      "open_issues": 20,
+      "open_issues": 19,
       "owner": "guardrailsio",
       "repo": "awesome-python-security",
       "stars": 962,

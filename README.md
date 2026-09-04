@@ -5,7 +5,7 @@ A curated list of awesome Python security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,550 | 🐛 105 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,858 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -45,15 +45,15 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Vulnerabilities and Security Advisories
 
-* [Safety](https://github.com/pyupio/safety) ⭐ 1,995 | 🐛 92 | 🌐 Python | 📅 2026-09-02 - Safety checks your installed dependencies for known security vulnerabilities.
+* [Safety](https://github.com/pyupio/safety) ⭐ 1,995 | 🐛 93 | 🌐 Python | 📅 2026-09-03 - Safety checks your installed dependencies for known security vulnerabilities.
 * [snyk Vulnerability DB](https://snyk.io/vuln?type=pip) - Commercial but free listing of known vulnerabilities in libraries.
 * [Common Vulnerabilities and Exposures](https://www.cvedetails.com/vulnerability-list/vendor_id-10210/product_id-18230/Python-Python.html) - Vulnerabilities that were assigned a CVE. Covers the language and packages.
 * [National Vulnerability Database](https://nvd.nist.gov/vuln/search/results?form_type=Basic\&results_type=overview\&query=python\&search_type=all) - Python known vulnerabilities in the National Vulnerability Database.
 
 ## Penetration Testing
 
-* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,352 | 🐛 33 | 🌐 Python | 📅 2026-09-02 - Automatic SQL injection and database takeover tool
-* [EvilTwinFramework](https://github.com/Esser420/EvilTwinFramework) ⭐ 359 | 🐛 7 | 🌐 Python | 📅 2024-08-01 - A framework for pentesters that facilitates evil twin attacks as well as exploiting other wifi vulnerabilities.
+* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,357 | 🐛 32 | 🌐 Python | 📅 2026-09-04 - Automatic SQL injection and database takeover tool
+* [EvilTwinFramework](https://github.com/Esser420/EvilTwinFramework) ⭐ 358 | 🐛 7 | 🌐 Python | 📅 2024-08-01 - A framework for pentesters that facilitates evil twin attacks as well as exploiting other wifi vulnerabilities.
 
 ## Cryptography
 
@@ -62,13 +62,13 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Application Templates
 
-* [wemake-django-template](https://github.com/wemake-services/wemake-django-template) ⭐ 2,270 | 🐛 21 | 🌐 Python | 📅 2026-08-31 - Bleeding edge `django` template focused on code quality and security.
+* [wemake-django-template](https://github.com/wemake-services/wemake-django-template) ⭐ 2,271 | 🐛 21 | 🌐 Python | 📅 2026-09-04 - Bleeding edge `django` template focused on code quality and security.
 
 # Awesome Educational with stars
 
 ## Hacking Playground
 
-* [DSVW](https://github.com/stamparm/DSVW) ⭐ 881 | 🐛 1 | 🌐 Python | 📅 2026-08-19 - Damn Small Vulnerable Web (DSVW) is a deliberately vulnerable web application written in under 100 lines of code, created for educational purposes.
+* [DSVW](https://github.com/stamparm/DSVW) ⭐ 879 | 🐛 1 | 🌐 Python | 📅 2026-08-19 - Damn Small Vulnerable Web (DSVW) is a deliberately vulnerable web application written in under 100 lines of code, created for educational purposes.
 * [django.nV](https://github.com/nVisium/django.nV) ⚠️ Archived - django.nV is a purposefully vulnerable Django application provided by nVisium.
 * [DVPWA](https://github.com/anxolerd/dvpwa) ⭐ 192 | 🐛 12 | 🌐 Python | 📅 2024-05-21 - Damn Vulnerable Python Web Application was inspired by famous dvwa project and bobby-tables xkcd comics.
 * [Let's be bad Guys](https://github.com/mpirnat/lets-be-bad-guys) ⭐ 189 | 🐛 1 | 🌐 HTML | 📅 2024-07-18 - Shiny, Let's Be Bad Guys: Exploiting and Mitigating the Top 10 Web App Vulnerabilities.
@@ -110,4 +110,4 @@ say *hi* on [Twitter](https://twitter.com/s_streichsbier)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
