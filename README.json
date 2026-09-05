@@ -84,7 +84,7 @@
                 "open_issues": 23,
                 "owner": "GoogleCloudPlatform",
                 "repo": "flask-talisman",
-                "stars": 932,
+                "stars": 931,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
@@ -237,7 +237,7 @@
                 "open_issues": 259,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8250,
+                "stars": 8252,
                 "topics": [
                   "bandit",
                   "linter",
@@ -308,8 +308,8 @@
                 "id": 71359600,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-03T23:29:09Z",
-                "open_issues": 93,
+                "last_commit": "2026-09-04T19:02:29Z",
+                "open_issues": 96,
                 "owner": "pyupio",
                 "repo": "safety",
                 "stars": 1995,
@@ -352,7 +352,7 @@
                 "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38357,
+                "stars": 38361,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -424,7 +424,7 @@
                 "open_issues": 58,
                 "owner": "pyca",
                 "repo": "pynacl",
-                "stars": 1205,
+                "stars": 1203,
                 "topics": [
                   "cryptography",
                   "libsodium",
@@ -538,7 +538,7 @@
                 "open_issues": 12,
                 "owner": "anxolerd",
                 "repo": "dvpwa",
-                "stars": 192,
+                "stars": 193,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T11:25:55.172Z",
+    "last_updated": "2026-09-05T10:42:07.605Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
