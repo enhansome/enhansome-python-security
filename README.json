@@ -49,7 +49,7 @@
                 "open_issues": 9,
                 "owner": "TypeError",
                 "repo": "secure",
-                "stars": 1053,
+                "stars": 1054,
                 "topics": [
                   "asgi",
                   "content-security-policy",
@@ -352,7 +352,7 @@
                 "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38361,
+                "stars": 38370,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -538,7 +538,7 @@
                 "open_issues": 12,
                 "owner": "anxolerd",
                 "repo": "dvpwa",
-                "stars": 193,
+                "stars": 194,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T10:42:07.605Z",
+    "last_updated": "2026-09-06T11:04:14.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
