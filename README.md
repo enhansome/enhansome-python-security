@@ -5,7 +5,7 @@ A curated list of awesome Python security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,460 | 🐛 106 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,842 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -39,30 +39,30 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Static Code Analysis
 
-* [Bandit](https://github.com/PyCQA/bandit) ⭐ 8,252 | 🐛 259 | 🌐 Python | 📅 2026-08-29 - Bandit is a tool designed to find common security issues in Python code.
+* [Bandit](https://github.com/PyCQA/bandit) ⭐ 8,251 | 🐛 259 | 🌐 Python | 📅 2026-08-29 - Bandit is a tool designed to find common security issues in Python code.
 * [Pyt](https://github.com/python-security/pyt) ⭐ 2,199 | 🐛 28 | 🌐 Python | 📅 2020-12-25 - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications.
 * [Detect Secrets](https://libraries.io/pypi/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
 
 ## Vulnerabilities and Security Advisories
 
-* [Safety](https://github.com/pyupio/safety) ⭐ 1,995 | 🐛 96 | 🌐 Python | 📅 2026-09-04 - Safety checks your installed dependencies for known security vulnerabilities.
+* [Safety](https://github.com/pyupio/safety) ⭐ 1,996 | 🐛 96 | 🌐 Python | 📅 2026-09-04 - Safety checks your installed dependencies for known security vulnerabilities.
 * [snyk Vulnerability DB](https://snyk.io/vuln?type=pip) - Commercial but free listing of known vulnerabilities in libraries.
 * [Common Vulnerabilities and Exposures](https://www.cvedetails.com/vulnerability-list/vendor_id-10210/product_id-18230/Python-Python.html) - Vulnerabilities that were assigned a CVE. Covers the language and packages.
 * [National Vulnerability Database](https://nvd.nist.gov/vuln/search/results?form_type=Basic\&results_type=overview\&query=python\&search_type=all) - Python known vulnerabilities in the National Vulnerability Database.
 
 ## Penetration Testing
 
-* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,370 | 🐛 32 | 🌐 Python | 📅 2026-09-04 - Automatic SQL injection and database takeover tool
+* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,380 | 🐛 32 | 🌐 Python | 📅 2026-09-07 - Automatic SQL injection and database takeover tool
 * [EvilTwinFramework](https://github.com/Esser420/EvilTwinFramework) ⭐ 358 | 🐛 7 | 🌐 Python | 📅 2024-08-01 - A framework for pentesters that facilitates evil twin attacks as well as exploiting other wifi vulnerabilities.
 
 ## Cryptography
 
-* [PyNacl](https://github.com/pyca/pynacl) ⭐ 1,203 | 🐛 58 | 🌐 C | 📅 2026-08-25 - Python binding to the Networking and Cryptography (NaCl) library.
+* [PyNacl](https://github.com/pyca/pynacl) ⭐ 1,204 | 🐛 58 | 🌐 C | 📅 2026-08-25 - Python binding to the Networking and Cryptography (NaCl) library.
 * [Passlib](https://bitbucket.org/ecollins/passlib) - Secure password storage/hashing library, very high level.
 
 ## Application Templates
 
-* [wemake-django-template](https://github.com/wemake-services/wemake-django-template) ⭐ 2,271 | 🐛 21 | 🌐 Python | 📅 2026-09-04 - Bleeding edge `django` template focused on code quality and security.
+* [wemake-django-template](https://github.com/wemake-services/wemake-django-template) ⭐ 2,270 | 🐛 21 | 🌐 Python | 📅 2026-09-04 - Bleeding edge `django` template focused on code quality and security.
 
 # Awesome Educational with stars
 
@@ -110,4 +110,4 @@ say *hi* on [Twitter](https://twitter.com/s_streichsbier)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
