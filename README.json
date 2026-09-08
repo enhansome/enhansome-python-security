@@ -309,7 +309,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-04T19:02:29Z",
-                "open_issues": 96,
+                "open_issues": 97,
                 "owner": "pyupio",
                 "repo": "safety",
                 "stars": 1996,
@@ -349,10 +349,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-07T10:06:28Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38380,
+                "stars": 38387,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -424,7 +424,7 @@
                 "open_issues": 58,
                 "owner": "pyca",
                 "repo": "pynacl",
-                "stars": 1204,
+                "stars": 1205,
                 "topics": [
                   "cryptography",
                   "libsodium",
@@ -457,7 +457,7 @@
                 "open_issues": 21,
                 "owner": "wemake-services",
                 "repo": "wemake-django-template",
-                "stars": 2270,
+                "stars": 2271,
                 "topics": [
                   "caddy",
                   "cookiecutter",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T12:43:13.877Z",
+    "last_updated": "2026-09-08T11:26:12.085Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
