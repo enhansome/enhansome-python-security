@@ -49,7 +49,7 @@
                 "open_issues": 9,
                 "owner": "TypeError",
                 "repo": "secure",
-                "stars": 1054,
+                "stars": 1055,
                 "topics": [
                   "asgi",
                   "content-security-policy",
@@ -237,7 +237,7 @@
                 "open_issues": 259,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8254,
+                "stars": 8256,
                 "topics": [
                   "bandit",
                   "linter",
@@ -266,7 +266,7 @@
                 "open_issues": 28,
                 "owner": "python-security",
                 "repo": "pyt",
-                "stars": 2199,
+                "stars": 2200,
                 "topics": [
                   "abstract-syntax",
                   "abstract-syntax-tree",
@@ -352,7 +352,7 @@
                 "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38387,
+                "stars": 38401,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -457,7 +457,7 @@
                 "open_issues": 21,
                 "owner": "wemake-services",
                 "repo": "wemake-django-template",
-                "stars": 2271,
+                "stars": 2270,
                 "topics": [
                   "caddy",
                   "cookiecutter",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T11:31:38.560Z",
+    "last_updated": "2026-09-10T11:28:14.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
