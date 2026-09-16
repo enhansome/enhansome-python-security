@@ -5,7 +5,7 @@ A curated list of awesome Python security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 506,215 | 🐛 106 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 506,567 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -39,13 +39,13 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Static Code Analysis
 
-* [Bandit](https://github.com/PyCQA/bandit) ⭐ 8,260 | 🐛 258 | 🌐 Python | 📅 2026-08-29 - Bandit is a tool designed to find common security issues in Python code.
+* [Bandit](https://github.com/PyCQA/bandit) ⭐ 8,266 | 🐛 258 | 🌐 Python | 📅 2026-08-29 - Bandit is a tool designed to find common security issues in Python code.
 * [Pyt](https://github.com/python-security/pyt) ⭐ 2,200 | 🐛 28 | 🌐 Python | 📅 2020-12-25 - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications.
 * [Detect Secrets](https://libraries.io/pypi/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
 
 ## Vulnerabilities and Security Advisories
 
-* [Safety](https://github.com/pyupio/safety) ⭐ 1,997 | 🐛 98 | 🌐 Python | 📅 2026-09-04 - Safety checks your installed dependencies for known security vulnerabilities.
+* [Safety](https://github.com/pyupio/safety) ⭐ 1,996 | 🐛 98 | 🌐 Python | 📅 2026-09-04 - Safety checks your installed dependencies for known security vulnerabilities.
 * [snyk Vulnerability DB](https://snyk.io/vuln?type=pip) - Commercial but free listing of known vulnerabilities in libraries.
 * [Common Vulnerabilities and Exposures](https://www.cvedetails.com/vulnerability-list/vendor_id-10210/product_id-18230/Python-Python.html) - Vulnerabilities that were assigned a CVE. Covers the language and packages.
 * [National Vulnerability Database](https://nvd.nist.gov/vuln/search/results?form_type=Basic\&results_type=overview\&query=python\&search_type=all) - Python known vulnerabilities in the National Vulnerability Database.
@@ -57,7 +57,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Cryptography
 
-* [PyNacl](https://github.com/pyca/pynacl) ⭐ 1,205 | 🐛 58 | 🌐 C | 📅 2026-08-25 - Python binding to the Networking and Cryptography (NaCl) library.
+* [PyNacl](https://github.com/pyca/pynacl) ⭐ 1,206 | 🐛 58 | 🌐 C | 📅 2026-08-25 - Python binding to the Networking and Cryptography (NaCl) library.
 * [Passlib](https://bitbucket.org/ecollins/passlib) - Secure password storage/hashing library, very high level.
 
 ## Application Templates
@@ -68,7 +68,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Hacking Playground
 
-* [DSVW](https://github.com/stamparm/DSVW) ⭐ 880 | 🐛 1 | 🌐 Python | 📅 2026-08-19 - Damn Small Vulnerable Web (DSVW) is a deliberately vulnerable web application written in under 100 lines of code, created for educational purposes.
+* [DSVW](https://github.com/stamparm/DSVW) ⭐ 881 | 🐛 1 | 🌐 Python | 📅 2026-08-19 - Damn Small Vulnerable Web (DSVW) is a deliberately vulnerable web application written in under 100 lines of code, created for educational purposes.
 * [django.nV](https://github.com/nVisium/django.nV) ⚠️ Archived - django.nV is a purposefully vulnerable Django application provided by nVisium.
 * [DVPWA](https://github.com/anxolerd/dvpwa) ⭐ 194 | 🐛 12 | 🌐 Python | 📅 2024-05-21 - Damn Vulnerable Python Web Application was inspired by famous dvwa project and bobby-tables xkcd comics.
 * [Let's be bad Guys](https://github.com/mpirnat/lets-be-bad-guys) ⭐ 189 | 🐛 1 | 🌐 HTML | 📅 2024-07-18 - Shiny, Let's Be Bad Guys: Exploiting and Mitigating the Top 10 Web App Vulnerabilities.
@@ -110,4 +110,4 @@ say *hi* on [Twitter](https://twitter.com/s_streichsbier)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._

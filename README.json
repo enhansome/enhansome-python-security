@@ -237,7 +237,7 @@
                 "open_issues": 258,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8260,
+                "stars": 8266,
                 "topics": [
                   "bandit",
                   "linter",
@@ -312,7 +312,7 @@
                 "open_issues": 98,
                 "owner": "pyupio",
                 "repo": "safety",
-                "stars": 1997,
+                "stars": 1996,
                 "topics": [
                   "cicd",
                   "dependency-management",
@@ -424,7 +424,7 @@
                 "open_issues": 58,
                 "owner": "pyca",
                 "repo": "pynacl",
-                "stars": 1205,
+                "stars": 1206,
                 "topics": [
                   "cryptography",
                   "libsodium",
@@ -496,7 +496,7 @@
                 "open_issues": 1,
                 "owner": "stamparm",
                 "repo": "DSVW",
-                "stars": 880,
+                "stars": 881,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T11:52:01.228Z",
+    "last_updated": "2026-09-16T11:45:06.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
