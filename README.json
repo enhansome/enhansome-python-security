@@ -49,7 +49,7 @@
                 "open_issues": 9,
                 "owner": "TypeError",
                 "repo": "secure",
-                "stars": 1055,
+                "stars": 1059,
                 "topics": [
                   "asgi",
                   "content-security-policy",
@@ -237,7 +237,7 @@
                 "open_issues": 258,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8269,
+                "stars": 8272,
                 "topics": [
                   "bandit",
                   "linter",
@@ -348,11 +348,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T22:53:20Z",
-                "open_issues": 31,
+                "last_commit": "2026-09-18T12:48:34Z",
+                "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38465,
+                "stars": 38472,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -389,7 +389,7 @@
                 "open_issues": 7,
                 "owner": "Esser50K",
                 "repo": "EvilTwinFramework",
-                "stars": 360,
+                "stars": 361,
                 "topics": [
                   "evil-twin",
                   "framework",
@@ -421,7 +421,7 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-25T11:06:02Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "pyca",
                 "repo": "pynacl",
                 "stars": 1206,
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T11:24:45.956Z",
+    "last_updated": "2026-09-19T11:08:37.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
