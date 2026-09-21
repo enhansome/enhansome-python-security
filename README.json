@@ -233,8 +233,8 @@
                 "id": 131129792,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T15:07:40Z",
-                "open_issues": 258,
+                "last_commit": "2026-09-21T11:13:19Z",
+                "open_issues": 260,
                 "owner": "PyCQA",
                 "repo": "bandit",
                 "stars": 8276,
@@ -312,7 +312,7 @@
                 "open_issues": 97,
                 "owner": "pyupio",
                 "repo": "safety",
-                "stars": 1997,
+                "stars": 1996,
                 "topics": [
                   "cicd",
                   "dependency-management",
@@ -352,7 +352,7 @@
                 "open_issues": 31,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38476,
+                "stars": 38487,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -453,11 +453,11 @@
                 "id": 103513062,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-18T04:47:42Z",
+                "last_commit": "2026-09-21T04:49:15Z",
                 "open_issues": 21,
                 "owner": "wemake-services",
                 "repo": "wemake-django-template",
-                "stars": 2269,
+                "stars": 2271,
                 "topics": [
                   "caddy",
                   "cookiecutter",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T11:32:54.140Z",
+    "last_updated": "2026-09-21T12:57:48.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
