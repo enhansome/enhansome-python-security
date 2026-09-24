@@ -237,7 +237,7 @@
                 "open_issues": 258,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8278,
+                "stars": 8281,
                 "topics": [
                   "bandit",
                   "linter",
@@ -309,7 +309,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-04T19:02:29Z",
-                "open_issues": 97,
+                "open_issues": 98,
                 "owner": "pyupio",
                 "repo": "safety",
                 "stars": 1996,
@@ -352,7 +352,7 @@
                 "open_issues": 31,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38500,
+                "stars": 38507,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -421,7 +421,7 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-25T11:06:02Z",
-                "open_issues": 59,
+                "open_issues": 60,
                 "owner": "pyca",
                 "repo": "pynacl",
                 "stars": 1206,
@@ -453,7 +453,7 @@
                 "id": 103513062,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-21T16:59:55Z",
+                "last_commit": "2026-09-24T04:54:40Z",
                 "open_issues": 21,
                 "owner": "wemake-services",
                 "repo": "wemake-django-template",
@@ -496,7 +496,7 @@
                 "open_issues": 1,
                 "owner": "stamparm",
                 "repo": "DSVW",
-                "stars": 881,
+                "stars": 882,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T11:46:52.602Z",
+    "last_updated": "2026-09-24T11:55:31.198Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
