@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "miguelgrinberg",
                 "repo": "Flask-HTTPAuth",
-                "stars": 1289,
+                "stars": 1290,
                 "topics": [
                   "authentication",
                   "flask",
@@ -49,7 +49,7 @@
                 "open_issues": 9,
                 "owner": "TypeError",
                 "repo": "secure",
-                "stars": 1070,
+                "stars": 1071,
                 "topics": [
                   "asgi",
                   "content-security-policy",
@@ -266,7 +266,7 @@
                 "open_issues": 28,
                 "owner": "python-security",
                 "repo": "pyt",
-                "stars": 2200,
+                "stars": 2201,
                 "topics": [
                   "abstract-syntax",
                   "abstract-syntax-tree",
@@ -312,7 +312,7 @@
                 "open_issues": 99,
                 "owner": "pyupio",
                 "repo": "safety",
-                "stars": 1996,
+                "stars": 1998,
                 "topics": [
                   "cicd",
                   "dependency-management",
@@ -348,11 +348,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T07:01:34Z",
-                "open_issues": 31,
+                "last_commit": "2026-09-28T20:20:32Z",
+                "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38544,
+                "stars": 38553,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -389,7 +389,7 @@
                 "open_issues": 7,
                 "owner": "Esser50K",
                 "repo": "EvilTwinFramework",
-                "stars": 362,
+                "stars": 363,
                 "topics": [
                   "evil-twin",
                   "framework",
@@ -453,11 +453,11 @@
                 "id": 103513062,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-24T04:54:40Z",
+                "last_commit": "2026-09-28T17:15:52Z",
                 "open_issues": 21,
                 "owner": "wemake-services",
                 "repo": "wemake-django-template",
-                "stars": 2274,
+                "stars": 2275,
                 "topics": [
                   "caddy",
                   "cookiecutter",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T14:07:00.343Z",
+    "last_updated": "2026-09-29T13:01:38.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
