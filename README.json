@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "miguelgrinberg",
                 "repo": "Flask-HTTPAuth",
-                "stars": 1290,
+                "stars": 1291,
                 "topics": [
                   "authentication",
                   "flask",
@@ -49,7 +49,7 @@
                 "open_issues": 9,
                 "owner": "TypeError",
                 "repo": "secure",
-                "stars": 1071,
+                "stars": 1072,
                 "topics": [
                   "asgi",
                   "content-security-policy",
@@ -237,7 +237,7 @@
                 "open_issues": 259,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8287,
+                "stars": 8289,
                 "topics": [
                   "bandit",
                   "linter",
@@ -266,7 +266,7 @@
                 "open_issues": 28,
                 "owner": "python-security",
                 "repo": "pyt",
-                "stars": 2201,
+                "stars": 2200,
                 "topics": [
                   "abstract-syntax",
                   "abstract-syntax-tree",
@@ -312,7 +312,7 @@
                 "open_issues": 99,
                 "owner": "pyupio",
                 "repo": "safety",
-                "stars": 1998,
+                "stars": 1999,
                 "topics": [
                   "cicd",
                   "dependency-management",
@@ -352,7 +352,7 @@
                 "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38553,
+                "stars": 38559,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -421,7 +421,7 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T10:32:26Z",
-                "open_issues": 61,
+                "open_issues": 63,
                 "owner": "pyca",
                 "repo": "pynacl",
                 "stars": 1206,
@@ -454,10 +454,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-28T17:15:52Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "wemake-services",
                 "repo": "wemake-django-template",
-                "stars": 2275,
+                "stars": 2276,
                 "topics": [
                   "caddy",
                   "cookiecutter",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T13:01:38.256Z",
+    "last_updated": "2026-09-30T12:43:57.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",

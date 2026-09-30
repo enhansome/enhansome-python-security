@@ -5,7 +5,7 @@ A curated list of awesome Python security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,247 | 🐛 106 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,679 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -24,8 +24,8 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Web Framework Hardening
 
-* [Flask-HTTPAuth](https://github.com/miguelgrinberg/flask-httpauth/) ⭐ 1,290 | 🐛 0 | 🌐 Python | 📅 2026-08-29 - Simple extension that provides Basic, Digest and Token HTTP authentication for Flask routes.
-* [Secure.py](https://github.com/cakinney/secure.py) ⭐ 1,071 | 🐛 9 | 🌐 Python | 📅 2026-09-01 - secure.py 🔒 is a lightweight package that adds optional security headers and cookie attributes for Python web frameworks.
+* [Flask-HTTPAuth](https://github.com/miguelgrinberg/flask-httpauth/) ⭐ 1,291 | 🐛 0 | 🌐 Python | 📅 2026-08-29 - Simple extension that provides Basic, Digest and Token HTTP authentication for Flask routes.
+* [Secure.py](https://github.com/cakinney/secure.py) ⭐ 1,072 | 🐛 9 | 🌐 Python | 📅 2026-09-01 - secure.py 🔒 is a lightweight package that adds optional security headers and cookie attributes for Python web frameworks.
 * [Flask Talisman](https://github.com/GoogleCloudPlatform/flask-talisman) ⚠️ Archived - Talisman is a small Flask extension that handles setting HTTP headers that can help protect against a few common web application security issues.
 * [Django Session CSRF](https://github.com/mozilla/django-session-csrf) ⭐ 111 | 🐛 14 | 🌐 Python | 📅 2019-03-28 - CSRF protection for Django without cookies.
 * [Django deployment checklist](https://docs.djangoproject.com/en/dev/howto/deployment/checklist/) - Web framework Django has built-in feature to check for security configurations: run this command `manage.py check --deploy`. It's really helpful as it already included in the framework.
@@ -39,30 +39,30 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Static Code Analysis
 
-* [Bandit](https://github.com/PyCQA/bandit) ⭐ 8,287 | 🐛 259 | 🌐 Python | 📅 2026-09-21 - Bandit is a tool designed to find common security issues in Python code.
-* [Pyt](https://github.com/python-security/pyt) ⭐ 2,201 | 🐛 28 | 🌐 Python | 📅 2020-12-25 - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications.
+* [Bandit](https://github.com/PyCQA/bandit) ⭐ 8,289 | 🐛 259 | 🌐 Python | 📅 2026-09-21 - Bandit is a tool designed to find common security issues in Python code.
+* [Pyt](https://github.com/python-security/pyt) ⭐ 2,200 | 🐛 28 | 🌐 Python | 📅 2020-12-25 - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications.
 * [Detect Secrets](https://libraries.io/pypi/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
 
 ## Vulnerabilities and Security Advisories
 
-* [Safety](https://github.com/pyupio/safety) ⭐ 1,998 | 🐛 99 | 🌐 Python | 📅 2026-09-04 - Safety checks your installed dependencies for known security vulnerabilities.
+* [Safety](https://github.com/pyupio/safety) ⭐ 1,999 | 🐛 99 | 🌐 Python | 📅 2026-09-04 - Safety checks your installed dependencies for known security vulnerabilities.
 * [snyk Vulnerability DB](https://snyk.io/vuln?type=pip) - Commercial but free listing of known vulnerabilities in libraries.
 * [Common Vulnerabilities and Exposures](https://www.cvedetails.com/vulnerability-list/vendor_id-10210/product_id-18230/Python-Python.html) - Vulnerabilities that were assigned a CVE. Covers the language and packages.
 * [National Vulnerability Database](https://nvd.nist.gov/vuln/search/results?form_type=Basic\&results_type=overview\&query=python\&search_type=all) - Python known vulnerabilities in the National Vulnerability Database.
 
 ## Penetration Testing
 
-* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,553 | 🐛 32 | 🌐 Python | 📅 2026-09-28 - Automatic SQL injection and database takeover tool
+* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,559 | 🐛 32 | 🌐 Python | 📅 2026-09-28 - Automatic SQL injection and database takeover tool
 * [EvilTwinFramework](https://github.com/Esser420/EvilTwinFramework) ⭐ 363 | 🐛 7 | 🌐 Python | 📅 2024-08-01 - A framework for pentesters that facilitates evil twin attacks as well as exploiting other wifi vulnerabilities.
 
 ## Cryptography
 
-* [PyNacl](https://github.com/pyca/pynacl) ⭐ 1,206 | 🐛 61 | 🌐 C | 📅 2026-09-28 - Python binding to the Networking and Cryptography (NaCl) library.
+* [PyNacl](https://github.com/pyca/pynacl) ⭐ 1,206 | 🐛 63 | 🌐 C | 📅 2026-09-28 - Python binding to the Networking and Cryptography (NaCl) library.
 * [Passlib](https://bitbucket.org/ecollins/passlib) - Secure password storage/hashing library, very high level.
 
 ## Application Templates
 
-* [wemake-django-template](https://github.com/wemake-services/wemake-django-template) ⭐ 2,275 | 🐛 21 | 🌐 Python | 📅 2026-09-28 - Bleeding edge `django` template focused on code quality and security.
+* [wemake-django-template](https://github.com/wemake-services/wemake-django-template) ⭐ 2,276 | 🐛 22 | 🌐 Python | 📅 2026-09-28 - Bleeding edge `django` template focused on code quality and security.
 
 # Awesome Educational with stars
 
@@ -110,4 +110,4 @@ say *hi* on [Twitter](https://twitter.com/s_streichsbier)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
