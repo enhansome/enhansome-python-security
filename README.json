@@ -237,7 +237,7 @@
                 "open_issues": 260,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8288,
+                "stars": 8290,
                 "topics": [
                   "bandit",
                   "linter",
@@ -266,7 +266,7 @@
                 "open_issues": 28,
                 "owner": "python-security",
                 "repo": "pyt",
-                "stars": 2200,
+                "stars": 2198,
                 "topics": [
                   "abstract-syntax",
                   "abstract-syntax-tree",
@@ -312,7 +312,7 @@
                 "open_issues": 100,
                 "owner": "pyupio",
                 "repo": "safety",
-                "stars": 1999,
+                "stars": 1998,
                 "topics": [
                   "cicd",
                   "dependency-management",
@@ -352,7 +352,7 @@
                 "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38584,
+                "stars": 38587,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -421,7 +421,7 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T10:36:46Z",
-                "open_issues": 63,
+                "open_issues": 64,
                 "owner": "pyca",
                 "repo": "pynacl",
                 "stars": 1207,
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T12:46:55.527Z",
+    "last_updated": "2026-10-03T05:07:04.109Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
