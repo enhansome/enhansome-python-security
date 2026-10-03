@@ -352,7 +352,7 @@
                 "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38587,
+                "stars": 38590,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:07:04.109Z",
+    "last_updated": "2026-10-03T11:46:57.465Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
