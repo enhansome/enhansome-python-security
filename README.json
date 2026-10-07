@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "miguelgrinberg",
                 "repo": "Flask-HTTPAuth",
-                "stars": 1291,
+                "stars": 1290,
                 "topics": [
                   "authentication",
                   "flask",
@@ -237,7 +237,7 @@
                 "open_issues": 262,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8294,
+                "stars": 8296,
                 "topics": [
                   "bandit",
                   "linter",
@@ -312,7 +312,7 @@
                 "open_issues": 99,
                 "owner": "pyupio",
                 "repo": "safety",
-                "stars": 1998,
+                "stars": 1999,
                 "topics": [
                   "cicd",
                   "dependency-management",
@@ -349,10 +349,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-05T21:54:40Z",
-                "open_issues": 31,
+                "open_issues": 33,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38613,
+                "stars": 38616,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -457,7 +457,7 @@
                 "open_issues": 21,
                 "owner": "wemake-services",
                 "repo": "wemake-django-template",
-                "stars": 2276,
+                "stars": 2275,
                 "topics": [
                   "caddy",
                   "cookiecutter",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T13:24:21.792Z",
+    "last_updated": "2026-10-07T13:33:53.808Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
