@@ -237,7 +237,7 @@
                 "open_issues": 262,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8296,
+                "stars": 8300,
                 "topics": [
                   "bandit",
                   "linter",
@@ -312,7 +312,7 @@
                 "open_issues": 99,
                 "owner": "pyupio",
                 "repo": "safety",
-                "stars": 1999,
+                "stars": 2000,
                 "topics": [
                   "cicd",
                   "dependency-management",
@@ -349,10 +349,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-05T21:54:40Z",
-                "open_issues": 33,
+                "open_issues": 31,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38616,
+                "stars": 38631,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -424,7 +424,7 @@
                 "open_issues": 64,
                 "owner": "pyca",
                 "repo": "pynacl",
-                "stars": 1209,
+                "stars": 1210,
                 "topics": [
                   "cryptography",
                   "libsodium",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T13:33:53.808Z",
+    "last_updated": "2026-10-08T13:39:24.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
@@ -586,7 +586,7 @@
       "open_issues": 20,
       "owner": "guardrailsio",
       "repo": "awesome-python-security",
-      "stars": 961,
+      "stars": 962,
       "topics": [
         "awesome",
         "awesome-list",
