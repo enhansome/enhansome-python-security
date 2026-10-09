@@ -237,7 +237,7 @@
                 "open_issues": 262,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8300,
+                "stars": 8301,
                 "topics": [
                   "bandit",
                   "linter",
@@ -352,7 +352,7 @@
                 "open_issues": 31,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38631,
+                "stars": 38641,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -389,7 +389,7 @@
                 "open_issues": 7,
                 "owner": "Esser50K",
                 "repo": "EvilTwinFramework",
-                "stars": 363,
+                "stars": 362,
                 "topics": [
                   "evil-twin",
                   "framework",
@@ -453,7 +453,7 @@
                 "id": 103513062,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-05T19:01:07Z",
+                "last_commit": "2026-10-09T06:11:19Z",
                 "open_issues": 21,
                 "owner": "wemake-services",
                 "repo": "wemake-django-template",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T13:39:24.989Z",
+    "last_updated": "2026-10-09T13:25:27.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
