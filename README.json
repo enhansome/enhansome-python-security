@@ -237,7 +237,7 @@
                 "open_issues": 262,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8303,
+                "stars": 8304,
                 "topics": [
                   "bandit",
                   "linter",
@@ -352,7 +352,7 @@
                 "open_issues": 31,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38644,
+                "stars": 38647,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T12:40:52.213Z",
+    "last_updated": "2026-10-11T13:01:48.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
@@ -586,7 +586,7 @@
       "open_issues": 20,
       "owner": "guardrailsio",
       "repo": "awesome-python-security",
-      "stars": 962,
+      "stars": 963,
       "topics": [
         "awesome",
         "awesome-list",
