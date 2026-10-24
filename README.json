@@ -237,7 +237,7 @@
                 "open_issues": 264,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8337,
+                "stars": 8339,
                 "topics": [
                   "bandit",
                   "linter",
@@ -352,7 +352,7 @@
                 "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38772,
+                "stars": 38773,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -453,11 +453,11 @@
                 "id": 103513062,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-23T06:13:19Z",
+                "last_commit": "2026-10-23T13:21:48Z",
                 "open_issues": 29,
                 "owner": "wemake-services",
                 "repo": "wemake-django-template",
-                "stars": 2280,
+                "stars": 2281,
                 "topics": [
                   "caddy",
                   "cookiecutter",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T11:47:32.354Z",
+    "last_updated": "2026-10-24T11:12:27.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
