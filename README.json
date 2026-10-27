@@ -233,11 +233,11 @@
                 "id": 131129792,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T11:15:48Z",
-                "open_issues": 265,
+                "last_commit": "2026-10-27T00:31:12Z",
+                "open_issues": 264,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8348,
+                "stars": 8352,
                 "topics": [
                   "bandit",
                   "linter",
@@ -348,11 +348,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-25T15:29:24Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-27T12:11:07Z",
+                "open_issues": 15,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38792,
+                "stars": 38806,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -424,7 +424,7 @@
                 "open_issues": 66,
                 "owner": "pyca",
                 "repo": "pynacl",
-                "stars": 1211,
+                "stars": 1210,
                 "topics": [
                   "cryptography",
                   "libsodium",
@@ -457,7 +457,7 @@
                 "open_issues": 29,
                 "owner": "wemake-services",
                 "repo": "wemake-django-template",
-                "stars": 2281,
+                "stars": 2282,
                 "topics": [
                   "caddy",
                   "cookiecutter",
@@ -496,7 +496,7 @@
                 "open_issues": 1,
                 "owner": "stamparm",
                 "repo": "DSVW",
-                "stars": 883,
+                "stars": 884,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T13:14:43.037Z",
+    "last_updated": "2026-10-27T12:22:43.008Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
