@@ -5,7 +5,7 @@ A curated list of awesome Python security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 525,425 | 🐛 105 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 526,045 | 🐛 105 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -25,7 +25,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 ## Web Framework Hardening
 
 * [Flask-HTTPAuth](https://github.com/miguelgrinberg/flask-httpauth/) ⭐ 1,290 | 🐛 0 | 🌐 Python | 📅 2026-08-29 - Simple extension that provides Basic, Digest and Token HTTP authentication for Flask routes.
-* [Secure.py](https://github.com/cakinney/secure.py) ⭐ 1,073 | 🐛 9 | 🌐 Python | 📅 2026-09-01 - secure.py 🔒 is a lightweight package that adds optional security headers and cookie attributes for Python web frameworks.
+* [Secure.py](https://github.com/cakinney/secure.py) ⭐ 1,074 | 🐛 9 | 🌐 Python | 📅 2026-09-01 - secure.py 🔒 is a lightweight package that adds optional security headers and cookie attributes for Python web frameworks.
 * [Flask Talisman](https://github.com/GoogleCloudPlatform/flask-talisman) ⚠️ Archived - Talisman is a small Flask extension that handles setting HTTP headers that can help protect against a few common web application security issues.
 * [Django Session CSRF](https://github.com/mozilla/django-session-csrf) ⭐ 111 | 🐛 14 | 🌐 Python | 📅 2019-03-28 - CSRF protection for Django without cookies.
 * [Django deployment checklist](https://docs.djangoproject.com/en/dev/howto/deployment/checklist/) - Web framework Django has built-in feature to check for security configurations: run this command `manage.py check --deploy`. It's really helpful as it already included in the framework.
@@ -39,36 +39,36 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Static Code Analysis
 
-* [Bandit](https://github.com/PyCQA/bandit) ⭐ 8,352 | 🐛 264 | 🌐 Python | 📅 2026-10-27 - Bandit is a tool designed to find common security issues in Python code.
+* [Bandit](https://github.com/PyCQA/bandit) ⭐ 8,360 | 🐛 264 | 🌐 Python | 📅 2026-10-27 - Bandit is a tool designed to find common security issues in Python code.
 * [Pyt](https://github.com/python-security/pyt) ⭐ 2,200 | 🐛 28 | 🌐 Python | 📅 2020-12-25 - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications.
 * [Detect Secrets](https://libraries.io/pypi/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
 
 ## Vulnerabilities and Security Advisories
 
-* [Safety](https://github.com/pyupio/safety) ⭐ 2,000 | 🐛 102 | 🌐 Python | 📅 2026-09-04 - Safety checks your installed dependencies for known security vulnerabilities.
+* [Safety](https://github.com/pyupio/safety) ⭐ 2,000 | 🐛 96 | 🌐 Python | 📅 2026-09-04 - Safety checks your installed dependencies for known security vulnerabilities.
 * [snyk Vulnerability DB](https://snyk.io/vuln?type=pip) - Commercial but free listing of known vulnerabilities in libraries.
 * [Common Vulnerabilities and Exposures](https://www.cvedetails.com/vulnerability-list/vendor_id-10210/product_id-18230/Python-Python.html) - Vulnerabilities that were assigned a CVE. Covers the language and packages.
 * [National Vulnerability Database](https://nvd.nist.gov/vuln/search/results?form_type=Basic\&results_type=overview\&query=python\&search_type=all) - Python known vulnerabilities in the National Vulnerability Database.
 
 ## Penetration Testing
 
-* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,806 | 🐛 15 | 🌐 Python | 📅 2026-10-27 - Automatic SQL injection and database takeover tool
+* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,815 | 🐛 14 | 🌐 Python | 📅 2026-10-27 - Automatic SQL injection and database takeover tool
 * [EvilTwinFramework](https://github.com/Esser420/EvilTwinFramework) ⭐ 362 | 🐛 7 | 🌐 Python | 📅 2024-08-01 - A framework for pentesters that facilitates evil twin attacks as well as exploiting other wifi vulnerabilities.
 
 ## Cryptography
 
-* [PyNacl](https://github.com/pyca/pynacl) ⭐ 1,210 | 🐛 66 | 🌐 C | 📅 2026-10-23 - Python binding to the Networking and Cryptography (NaCl) library.
+* [PyNacl](https://github.com/pyca/pynacl) ⭐ 1,209 | 🐛 65 | 🌐 C | 📅 2026-10-23 - Python binding to the Networking and Cryptography (NaCl) library.
 * [Passlib](https://bitbucket.org/ecollins/passlib) - Secure password storage/hashing library, very high level.
 
 ## Application Templates
 
-* [wemake-django-template](https://github.com/wemake-services/wemake-django-template) ⭐ 2,282 | 🐛 29 | 🌐 Python | 📅 2026-10-23 - Bleeding edge `django` template focused on code quality and security.
+* [wemake-django-template](https://github.com/wemake-services/wemake-django-template) ⭐ 2,282 | 🐛 29 | 🌐 Python | 📅 2026-10-28 - Bleeding edge `django` template focused on code quality and security.
 
 # Awesome Educational with stars
 
 ## Hacking Playground
 
-* [DSVW](https://github.com/stamparm/DSVW) ⭐ 884 | 🐛 1 | 🌐 Python | 📅 2026-08-19 - Damn Small Vulnerable Web (DSVW) is a deliberately vulnerable web application written in under 100 lines of code, created for educational purposes.
+* [DSVW](https://github.com/stamparm/DSVW) ⭐ 885 | 🐛 1 | 🌐 Python | 📅 2026-08-19 - Damn Small Vulnerable Web (DSVW) is a deliberately vulnerable web application written in under 100 lines of code, created for educational purposes.
 * [django.nV](https://github.com/nVisium/django.nV) ⚠️ Archived - django.nV is a purposefully vulnerable Django application provided by nVisium.
 * [DVPWA](https://github.com/anxolerd/dvpwa) ⭐ 196 | 🐛 13 | 🌐 Python | 📅 2024-05-21 - Damn Vulnerable Python Web Application was inspired by famous dvwa project and bobby-tables xkcd comics.
 * [Let's be bad Guys](https://github.com/mpirnat/lets-be-bad-guys) ⭐ 189 | 🐛 1 | 🌐 HTML | 📅 2024-07-18 - Shiny, Let's Be Bad Guys: Exploiting and Mitigating the Top 10 Web App Vulnerabilities.
@@ -110,4 +110,4 @@ say *hi* on [Twitter](https://twitter.com/s_streichsbier)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._

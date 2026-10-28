@@ -49,7 +49,7 @@
                 "open_issues": 9,
                 "owner": "TypeError",
                 "repo": "secure",
-                "stars": 1073,
+                "stars": 1074,
                 "topics": [
                   "asgi",
                   "content-security-policy",
@@ -237,7 +237,7 @@
                 "open_issues": 264,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8352,
+                "stars": 8360,
                 "topics": [
                   "bandit",
                   "linter",
@@ -309,7 +309,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-04T19:02:29Z",
-                "open_issues": 102,
+                "open_issues": 96,
                 "owner": "pyupio",
                 "repo": "safety",
                 "stars": 2000,
@@ -348,11 +348,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T12:11:07Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-27T12:47:08Z",
+                "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38806,
+                "stars": 38815,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -421,10 +421,10 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T10:32:17Z",
-                "open_issues": 66,
+                "open_issues": 65,
                 "owner": "pyca",
                 "repo": "pynacl",
-                "stars": 1210,
+                "stars": 1209,
                 "topics": [
                   "cryptography",
                   "libsodium",
@@ -453,7 +453,7 @@
                 "id": 103513062,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-23T13:21:48Z",
+                "last_commit": "2026-10-28T04:10:08Z",
                 "open_issues": 29,
                 "owner": "wemake-services",
                 "repo": "wemake-django-template",
@@ -496,7 +496,7 @@
                 "open_issues": 1,
                 "owner": "stamparm",
                 "repo": "DSVW",
-                "stars": 884,
+                "stars": 885,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T12:22:43.008Z",
+    "last_updated": "2026-10-28T13:08:21.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
