@@ -349,10 +349,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-27T12:47:08Z",
-                "open_issues": 14,
+                "open_issues": 16,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38815,
+                "stars": 38812,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -453,7 +453,7 @@
                 "id": 103513062,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-28T04:10:08Z",
+                "last_commit": "2026-10-29T05:00:05Z",
                 "open_issues": 29,
                 "owner": "wemake-services",
                 "repo": "wemake-django-template",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T13:08:21.682Z",
+    "last_updated": "2026-10-29T13:14:19.923Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
@@ -586,7 +586,7 @@
       "open_issues": 26,
       "owner": "guardrailsio",
       "repo": "awesome-python-security",
-      "stars": 964,
+      "stars": 965,
       "topics": [
         "awesome",
         "awesome-list",
