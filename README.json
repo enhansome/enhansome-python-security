@@ -237,7 +237,7 @@
                 "open_issues": 267,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8378,
+                "stars": 8380,
                 "topics": [
                   "bandit",
                   "linter",
@@ -266,7 +266,7 @@
                 "open_issues": 28,
                 "owner": "python-security",
                 "repo": "pyt",
-                "stars": 2201,
+                "stars": 2202,
                 "topics": [
                   "abstract-syntax",
                   "abstract-syntax-tree",
@@ -348,11 +348,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T14:31:55Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-10T14:10:21Z",
+                "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38897,
+                "stars": 38910,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -424,7 +424,7 @@
                 "open_issues": 65,
                 "owner": "pyca",
                 "repo": "pynacl",
-                "stars": 1209,
+                "stars": 1210,
                 "topics": [
                   "cryptography",
                   "libsodium",
@@ -453,11 +453,11 @@
                 "id": 103513062,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-09T06:00:13Z",
+                "last_commit": "2026-11-09T17:59:24Z",
                 "open_issues": 29,
                 "owner": "wemake-services",
                 "repo": "wemake-django-template",
-                "stars": 2279,
+                "stars": 2280,
                 "topics": [
                   "caddy",
                   "cookiecutter",
@@ -496,7 +496,7 @@
                 "open_issues": 1,
                 "owner": "stamparm",
                 "repo": "DSVW",
-                "stars": 884,
+                "stars": 885,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T16:33:34.979Z",
+    "last_updated": "2026-11-10T14:59:36.383Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
@@ -586,7 +586,7 @@
       "open_issues": 26,
       "owner": "guardrailsio",
       "repo": "awesome-python-security",
-      "stars": 966,
+      "stars": 967,
       "topics": [
         "awesome",
         "awesome-list",
