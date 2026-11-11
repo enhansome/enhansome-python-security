@@ -237,7 +237,7 @@
                 "open_issues": 267,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8380,
+                "stars": 8379,
                 "topics": [
                   "bandit",
                   "linter",
@@ -352,7 +352,7 @@
                 "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38910,
+                "stars": 38926,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -389,7 +389,7 @@
                 "open_issues": 7,
                 "owner": "Esser50K",
                 "repo": "EvilTwinFramework",
-                "stars": 362,
+                "stars": 363,
                 "topics": [
                   "evil-twin",
                   "framework",
@@ -538,7 +538,7 @@
                 "open_issues": 14,
                 "owner": "anxolerd",
                 "repo": "dvpwa",
-                "stars": 196,
+                "stars": 197,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T14:59:36.383Z",
+    "last_updated": "2026-11-11T14:31:25.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
