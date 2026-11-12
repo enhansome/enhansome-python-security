@@ -237,7 +237,7 @@
                 "open_issues": 267,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8379,
+                "stars": 8382,
                 "topics": [
                   "bandit",
                   "linter",
@@ -348,11 +348,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T14:10:21Z",
+                "last_commit": "2026-11-12T13:00:20Z",
                 "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38926,
+                "stars": 38940,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -538,7 +538,7 @@
                 "open_issues": 14,
                 "owner": "anxolerd",
                 "repo": "dvpwa",
-                "stars": 197,
+                "stars": 198,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T14:31:25.323Z",
+    "last_updated": "2026-11-12T15:23:42.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
@@ -586,7 +586,7 @@
       "open_issues": 26,
       "owner": "guardrailsio",
       "repo": "awesome-python-security",
-      "stars": 967,
+      "stars": 968,
       "topics": [
         "awesome",
         "awesome-list",

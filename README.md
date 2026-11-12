@@ -5,7 +5,7 @@ A curated list of awesome Python security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,161 | 🐛 103 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,739 | 🐛 103 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -39,7 +39,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Static Code Analysis
 
-* [Bandit](https://github.com/PyCQA/bandit) ⭐ 8,379 | 🐛 267 | 🌐 Python | 📅 2026-11-09 - Bandit is a tool designed to find common security issues in Python code.
+* [Bandit](https://github.com/PyCQA/bandit) ⭐ 8,382 | 🐛 267 | 🌐 Python | 📅 2026-11-09 - Bandit is a tool designed to find common security issues in Python code.
 * [Pyt](https://github.com/python-security/pyt) ⭐ 2,202 | 🐛 28 | 🌐 Python | 📅 2020-12-25 - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications.
 * [Detect Secrets](https://libraries.io/pypi/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
 
@@ -52,7 +52,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Penetration Testing
 
-* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,926 | 🐛 14 | 🌐 Python | 📅 2026-11-10 - Automatic SQL injection and database takeover tool
+* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,940 | 🐛 14 | 🌐 Python | 📅 2026-11-12 - Automatic SQL injection and database takeover tool
 * [EvilTwinFramework](https://github.com/Esser420/EvilTwinFramework) ⭐ 363 | 🐛 7 | 🌐 Python | 📅 2024-08-01 - A framework for pentesters that facilitates evil twin attacks as well as exploiting other wifi vulnerabilities.
 
 ## Cryptography
@@ -70,7 +70,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 * [DSVW](https://github.com/stamparm/DSVW) ⭐ 885 | 🐛 1 | 🌐 Python | 📅 2026-08-19 - Damn Small Vulnerable Web (DSVW) is a deliberately vulnerable web application written in under 100 lines of code, created for educational purposes.
 * [django.nV](https://github.com/nVisium/django.nV) ⚠️ Archived - django.nV is a purposefully vulnerable Django application provided by nVisium.
-* [DVPWA](https://github.com/anxolerd/dvpwa) ⭐ 197 | 🐛 14 | 🌐 Python | 📅 2026-11-09 - Damn Vulnerable Python Web Application was inspired by famous dvwa project and bobby-tables xkcd comics.
+* [DVPWA](https://github.com/anxolerd/dvpwa) ⭐ 198 | 🐛 14 | 🌐 Python | 📅 2026-11-09 - Damn Vulnerable Python Web Application was inspired by famous dvwa project and bobby-tables xkcd comics.
 * [Let's be bad Guys](https://github.com/mpirnat/lets-be-bad-guys) ⭐ 189 | 🐛 1 | 🌐 HTML | 📅 2024-07-18 - Shiny, Let's Be Bad Guys: Exploiting and Mitigating the Top 10 Web App Vulnerabilities.
 
 ## Books
@@ -110,4 +110,4 @@ say *hi* on [Twitter](https://twitter.com/s_streichsbier)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
