@@ -352,7 +352,7 @@
                 "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38945,
+                "stars": 38955,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -453,8 +453,8 @@
                 "id": 103513062,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-13T05:09:03Z",
-                "open_issues": 30,
+                "last_commit": "2026-11-13T16:40:32Z",
+                "open_issues": 29,
                 "owner": "wemake-services",
                 "repo": "wemake-django-template",
                 "stars": 2279,
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T14:41:23.236Z",
+    "last_updated": "2026-11-14T13:38:29.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
