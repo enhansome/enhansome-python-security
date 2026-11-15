@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "miguelgrinberg",
                 "repo": "Flask-HTTPAuth",
-                "stars": 1290,
+                "stars": 1291,
                 "topics": [
                   "authentication",
                   "flask",
@@ -49,7 +49,7 @@
                 "open_issues": 9,
                 "owner": "TypeError",
                 "repo": "secure",
-                "stars": 1073,
+                "stars": 1074,
                 "topics": [
                   "asgi",
                   "content-security-policy",
@@ -84,7 +84,7 @@
                 "open_issues": 23,
                 "owner": "GoogleCloudPlatform",
                 "repo": "flask-talisman",
-                "stars": 931,
+                "stars": 932,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
@@ -133,7 +133,7 @@
                 "open_issues": 3,
                 "owner": "hubblestack",
                 "repo": "hubble",
-                "stars": 388,
+                "stars": 389,
                 "topics": [
                   "audit",
                   "hubble",
@@ -164,7 +164,7 @@
                 "open_issues": 26,
                 "owner": "hawkeyesec",
                 "repo": "scanner-cli",
-                "stars": 361,
+                "stars": 362,
                 "topics": [
                   "ci",
                   "docker",
@@ -237,7 +237,7 @@
                 "open_issues": 267,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8382,
+                "stars": 8389,
                 "topics": [
                   "bandit",
                   "linter",
@@ -352,7 +352,7 @@
                 "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38955,
+                "stars": 38956,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -389,7 +389,7 @@
                 "open_issues": 7,
                 "owner": "Esser50K",
                 "repo": "EvilTwinFramework",
-                "stars": 364,
+                "stars": 365,
                 "topics": [
                   "evil-twin",
                   "framework",
@@ -424,7 +424,7 @@
                 "open_issues": 65,
                 "owner": "pyca",
                 "repo": "pynacl",
-                "stars": 1211,
+                "stars": 1212,
                 "topics": [
                   "cryptography",
                   "libsodium",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T13:38:29.644Z",
+    "last_updated": "2026-11-15T14:03:10.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
