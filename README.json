@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "miguelgrinberg",
                 "repo": "Flask-HTTPAuth",
-                "stars": 1291,
+                "stars": 1290,
                 "topics": [
                   "authentication",
                   "flask",
@@ -49,7 +49,7 @@
                 "open_issues": 9,
                 "owner": "TypeError",
                 "repo": "secure",
-                "stars": 1075,
+                "stars": 1074,
                 "topics": [
                   "asgi",
                   "content-security-policy",
@@ -84,7 +84,7 @@
                 "open_issues": 23,
                 "owner": "GoogleCloudPlatform",
                 "repo": "flask-talisman",
-                "stars": 932,
+                "stars": 931,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
@@ -133,7 +133,7 @@
                 "open_issues": 3,
                 "owner": "hubblestack",
                 "repo": "hubble",
-                "stars": 389,
+                "stars": 388,
                 "topics": [
                   "audit",
                   "hubble",
@@ -164,7 +164,7 @@
                 "open_issues": 26,
                 "owner": "hawkeyesec",
                 "repo": "scanner-cli",
-                "stars": 362,
+                "stars": 361,
                 "topics": [
                   "ci",
                   "docker",
@@ -237,7 +237,7 @@
                 "open_issues": 267,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8397,
+                "stars": 8398,
                 "topics": [
                   "bandit",
                   "linter",
@@ -266,7 +266,7 @@
                 "open_issues": 28,
                 "owner": "python-security",
                 "repo": "pyt",
-                "stars": 2202,
+                "stars": 2201,
                 "topics": [
                   "abstract-syntax",
                   "abstract-syntax-tree",
@@ -312,7 +312,7 @@
                 "open_issues": 100,
                 "owner": "pyupio",
                 "repo": "safety",
-                "stars": 2000,
+                "stars": 1999,
                 "topics": [
                   "cicd",
                   "dependency-management",
@@ -352,7 +352,7 @@
                 "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38987,
+                "stars": 38996,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -389,7 +389,7 @@
                 "open_issues": 7,
                 "owner": "Esser50K",
                 "repo": "EvilTwinFramework",
-                "stars": 366,
+                "stars": 365,
                 "topics": [
                   "evil-twin",
                   "framework",
@@ -424,7 +424,7 @@
                 "open_issues": 65,
                 "owner": "pyca",
                 "repo": "pynacl",
-                "stars": 1213,
+                "stars": 1212,
                 "topics": [
                   "cryptography",
                   "libsodium",
@@ -453,11 +453,11 @@
                 "id": 103513062,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-18T11:53:44Z",
+                "last_commit": "2026-11-20T06:25:24Z",
                 "open_issues": 26,
                 "owner": "wemake-services",
                 "repo": "wemake-django-template",
-                "stars": 2280,
+                "stars": 2279,
                 "topics": [
                   "caddy",
                   "cookiecutter",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T15:52:26.568Z",
+    "last_updated": "2026-11-20T15:34:46.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
@@ -586,7 +586,7 @@
       "open_issues": 26,
       "owner": "guardrailsio",
       "repo": "awesome-python-security",
-      "stars": 968,
+      "stars": 967,
       "topics": [
         "awesome",
         "awesome-list",
