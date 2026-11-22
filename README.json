@@ -349,10 +349,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-19T14:06:33Z",
-                "open_issues": 15,
+                "open_issues": 17,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 39006,
+                "stars": 39014,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -457,7 +457,7 @@
                 "open_issues": 26,
                 "owner": "wemake-services",
                 "repo": "wemake-django-template",
-                "stars": 2279,
+                "stars": 2278,
                 "topics": [
                   "caddy",
                   "cookiecutter",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T14:45:21.592Z",
+    "last_updated": "2026-11-22T14:41:31.094Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
