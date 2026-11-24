@@ -5,7 +5,7 @@ A curated list of awesome Python security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 541,543 | 🐛 103 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 542,177 | 🐛 103 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -45,14 +45,14 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Vulnerabilities and Security Advisories
 
-* [Safety](https://github.com/pyupio/safety) ⭐ 1,999 | 🐛 102 | 🌐 Python | 📅 2026-11-05 - Safety checks your installed dependencies for known security vulnerabilities.
+* [Safety](https://github.com/pyupio/safety) ⭐ 1,998 | 🐛 102 | 🌐 Python | 📅 2026-11-05 - Safety checks your installed dependencies for known security vulnerabilities.
 * [snyk Vulnerability DB](https://snyk.io/vuln?type=pip) - Commercial but free listing of known vulnerabilities in libraries.
 * [Common Vulnerabilities and Exposures](https://www.cvedetails.com/vulnerability-list/vendor_id-10210/product_id-18230/Python-Python.html) - Vulnerabilities that were assigned a CVE. Covers the language and packages.
 * [National Vulnerability Database](https://nvd.nist.gov/vuln/search/results?form_type=Basic\&results_type=overview\&query=python\&search_type=all) - Python known vulnerabilities in the National Vulnerability Database.
 
 ## Penetration Testing
 
-* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 39,022 | 🐛 15 | 🌐 Python | 📅 2026-11-19 - Automatic SQL injection and database takeover tool
+* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 39,029 | 🐛 15 | 🌐 Python | 📅 2026-11-23 - Automatic SQL injection and database takeover tool
 * [EvilTwinFramework](https://github.com/Esser420/EvilTwinFramework) ⭐ 365 | 🐛 7 | 🌐 Python | 📅 2024-08-01 - A framework for pentesters that facilitates evil twin attacks as well as exploiting other wifi vulnerabilities.
 
 ## Cryptography
@@ -62,7 +62,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Application Templates
 
-* [wemake-django-template](https://github.com/wemake-services/wemake-django-template) ⭐ 2,278 | 🐛 27 | 🌐 Python | 📅 2026-11-23 - Bleeding edge `django` template focused on code quality and security.
+* [wemake-django-template](https://github.com/wemake-services/wemake-django-template) ⭐ 2,278 | 🐛 26 | 🌐 Python | 📅 2026-11-24 - Bleeding edge `django` template focused on code quality and security.
 
 # Awesome Educational with stars
 
@@ -110,4 +110,4 @@ say *hi* on [Twitter](https://twitter.com/s_streichsbier)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
