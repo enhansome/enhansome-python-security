@@ -237,7 +237,7 @@
                 "open_issues": 267,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8401,
+                "stars": 8403,
                 "topics": [
                   "bandit",
                   "linter",
@@ -309,7 +309,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-11-05T14:52:46Z",
-                "open_issues": 102,
+                "open_issues": 104,
                 "owner": "pyupio",
                 "repo": "safety",
                 "stars": 1998,
@@ -348,11 +348,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-23T22:33:18Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-24T21:10:36Z",
+                "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 39029,
+                "stars": 39041,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -389,7 +389,7 @@
                 "open_issues": 7,
                 "owner": "Esser50K",
                 "repo": "EvilTwinFramework",
-                "stars": 365,
+                "stars": 366,
                 "topics": [
                   "evil-twin",
                   "framework",
@@ -453,11 +453,11 @@
                 "id": 103513062,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-24T10:42:48Z",
+                "last_commit": "2026-11-25T05:51:11Z",
                 "open_issues": 26,
                 "owner": "wemake-services",
                 "repo": "wemake-django-template",
-                "stars": 2278,
+                "stars": 2279,
                 "topics": [
                   "caddy",
                   "cookiecutter",
@@ -496,7 +496,7 @@
                 "open_issues": 1,
                 "owner": "stamparm",
                 "repo": "DSVW",
-                "stars": 887,
+                "stars": 886,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:48:11.364Z"
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T17:54:09.949Z",
+    "last_updated": "2026-11-25T17:21:46.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
