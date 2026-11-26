@@ -234,10 +234,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-09T15:00:39Z",
-                "open_issues": 267,
+                "open_issues": 268,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8403,
+                "stars": 8406,
                 "topics": [
                   "bandit",
                   "linter",
@@ -352,7 +352,7 @@
                 "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 39041,
+                "stars": 39055,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -389,7 +389,7 @@
                 "open_issues": 7,
                 "owner": "Esser50K",
                 "repo": "EvilTwinFramework",
-                "stars": 366,
+                "stars": 367,
                 "topics": [
                   "evil-twin",
                   "framework",
@@ -424,7 +424,7 @@
                 "open_issues": 66,
                 "owner": "pyca",
                 "repo": "pynacl",
-                "stars": 1212,
+                "stars": 1213,
                 "topics": [
                   "cryptography",
                   "libsodium",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T17:21:46.253Z",
+    "last_updated": "2026-11-26T17:01:37.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",

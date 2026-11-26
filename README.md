@@ -5,7 +5,7 @@ A curated list of awesome Python security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 542,695 | 🐛 103 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 543,260 | 🐛 103 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -39,7 +39,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Static Code Analysis
 
-* [Bandit](https://github.com/PyCQA/bandit) ⭐ 8,403 | 🐛 267 | 🌐 Python | 📅 2026-11-09 - Bandit is a tool designed to find common security issues in Python code.
+* [Bandit](https://github.com/PyCQA/bandit) ⭐ 8,406 | 🐛 268 | 🌐 Python | 📅 2026-11-09 - Bandit is a tool designed to find common security issues in Python code.
 * [Pyt](https://github.com/python-security/pyt) ⭐ 2,201 | 🐛 28 | 🌐 Python | 📅 2020-12-25 - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications.
 * [Detect Secrets](https://libraries.io/pypi/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
 
@@ -52,12 +52,12 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Penetration Testing
 
-* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 39,041 | 🐛 14 | 🌐 Python | 📅 2026-11-24 - Automatic SQL injection and database takeover tool
-* [EvilTwinFramework](https://github.com/Esser420/EvilTwinFramework) ⭐ 366 | 🐛 7 | 🌐 Python | 📅 2024-08-01 - A framework for pentesters that facilitates evil twin attacks as well as exploiting other wifi vulnerabilities.
+* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 39,055 | 🐛 14 | 🌐 Python | 📅 2026-11-24 - Automatic SQL injection and database takeover tool
+* [EvilTwinFramework](https://github.com/Esser420/EvilTwinFramework) ⭐ 367 | 🐛 7 | 🌐 Python | 📅 2024-08-01 - A framework for pentesters that facilitates evil twin attacks as well as exploiting other wifi vulnerabilities.
 
 ## Cryptography
 
-* [PyNacl](https://github.com/pyca/pynacl) ⭐ 1,212 | 🐛 66 | 🌐 C | 📅 2026-11-03 - Python binding to the Networking and Cryptography (NaCl) library.
+* [PyNacl](https://github.com/pyca/pynacl) ⭐ 1,213 | 🐛 66 | 🌐 C | 📅 2026-11-03 - Python binding to the Networking and Cryptography (NaCl) library.
 * [Passlib](https://bitbucket.org/ecollins/passlib) - Secure password storage/hashing library, very high level.
 
 ## Application Templates
@@ -110,4 +110,4 @@ say *hi* on [Twitter](https://twitter.com/s_streichsbier)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
