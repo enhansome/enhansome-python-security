@@ -5,7 +5,7 @@ A curated list of awesome Python security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 543,815 | 🐛 103 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 544,248 | 🐛 103 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -32,14 +32,14 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Multi tools
 
-* [Hubble](https://github.com/hubblestack/hubble) ⭐ 388 | 🐛 3 | 🌐 Python | 📅 2023-07-07 - Hubble is a modular, open-source security compliance framework.
+* [Hubble](https://github.com/hubblestack/hubble) ⭐ 387 | 🐛 3 | 🌐 Python | 📅 2023-07-07 - Hubble is a modular, open-source security compliance framework.
 * [hawkeye](https://github.com/hawkeyesec/scanner-cli) ⚠️ Archived - Multi purpose security/vulnerability/risk scanning tool supporting Ruby, Node.js, Python, PHP and Java.
 * [Salus](https://github.com/coinbase/salus) ⭐ 31 | 🐛 42 | 🌐 HTML | 📅 2025-06-12 - Multi purpose security scanning tool supporting Ruby, Node, Python and Go.
 * [GuardRails](https://github.com/apps/guardrails) - A GitHub App that gives you instant security feedback in your Pull Requests.
 
 ## Static Code Analysis
 
-* [Bandit](https://github.com/PyCQA/bandit) ⭐ 8,408 | 🐛 268 | 🌐 Python | 📅 2026-11-09 - Bandit is a tool designed to find common security issues in Python code.
+* [Bandit](https://github.com/PyCQA/bandit) ⭐ 8,407 | 🐛 269 | 🌐 Python | 📅 2026-11-09 - Bandit is a tool designed to find common security issues in Python code.
 * [Pyt](https://github.com/python-security/pyt) ⭐ 2,201 | 🐛 28 | 🌐 Python | 📅 2020-12-25 - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications.
 * [Detect Secrets](https://libraries.io/pypi/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
 
@@ -52,7 +52,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Penetration Testing
 
-* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 39,064 | 🐛 14 | 🌐 Python | 📅 2026-11-24 - Automatic SQL injection and database takeover tool
+* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 39,068 | 🐛 14 | 🌐 Python | 📅 2026-11-24 - Automatic SQL injection and database takeover tool
 * [EvilTwinFramework](https://github.com/Esser420/EvilTwinFramework) ⭐ 367 | 🐛 7 | 🌐 Python | 📅 2024-08-01 - A framework for pentesters that facilitates evil twin attacks as well as exploiting other wifi vulnerabilities.
 
 ## Cryptography
@@ -62,7 +62,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Application Templates
 
-* [wemake-django-template](https://github.com/wemake-services/wemake-django-template) ⭐ 2,279 | 🐛 26 | 🌐 Python | 📅 2026-11-27 - Bleeding edge `django` template focused on code quality and security.
+* [wemake-django-template](https://github.com/wemake-services/wemake-django-template) ⭐ 2,280 | 🐛 26 | 🌐 Python | 📅 2026-11-27 - Bleeding edge `django` template focused on code quality and security.
 
 # Awesome Educational with stars
 
@@ -110,4 +110,4 @@ say *hi* on [Twitter](https://twitter.com/s_streichsbier)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._

@@ -133,7 +133,7 @@
                 "open_issues": 3,
                 "owner": "hubblestack",
                 "repo": "hubble",
-                "stars": 388,
+                "stars": 387,
                 "topics": [
                   "audit",
                   "hubble",
@@ -234,10 +234,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-09T15:00:39Z",
-                "open_issues": 268,
+                "open_issues": 269,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8408,
+                "stars": 8407,
                 "topics": [
                   "bandit",
                   "linter",
@@ -352,7 +352,7 @@
                 "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 39064,
+                "stars": 39068,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -457,7 +457,7 @@
                 "open_issues": 26,
                 "owner": "wemake-services",
                 "repo": "wemake-django-template",
-                "stars": 2279,
+                "stars": 2280,
                 "topics": [
                   "caddy",
                   "cookiecutter",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T16:47:25.397Z",
+    "last_updated": "2026-11-28T15:39:21.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Security resources 🕶🐍🔐",
